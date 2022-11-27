@@ -1,4 +1,4 @@
-# UCLA Synthetic data Workshop
+# UCLA Synthetic Data Workshop
 
 ## TBD at UCLA
 
