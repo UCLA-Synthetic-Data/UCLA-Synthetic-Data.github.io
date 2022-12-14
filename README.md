@@ -2,9 +2,7 @@
 
 **April 13th - 14th**
 
-We are pleased to announce the UCLA synthetic data workshop. This 2-day workshop is hosted by the UCLA Department of Statistics and co-sponsored by [IDRE](https://idre.ucla.edu/) and [UCLA-Amazon Science Hub](https://www.sciencehub.ucla.edu/).
-
-The workshop is being held at the [UCLA Faculty Club](https://facultyclub.ucla.edu/). Virtual Link TBD.
+We are pleased to announce the UCLA synthetic data workshop. This 2-day workshop is hosted by the UCLA Department of Statistics and co-sponsored by [IDRE](https://idre.ucla.edu/) and [UCLA-Amazon Science Hub](https://www.sciencehub.ucla.edu/). The workshop is being held at the [UCLA Faculty Club](https://facultyclub.ucla.edu/). Virtual Link TBD.
 
 ### About
 Synthetic data generation is a rapidly growing and highly disciplinary research area that
@@ -18,7 +16,13 @@ Figure 1. Additionally, the MIT Technology Review named synthetic data as one of
 game-changing innovations for 2022 earlier this year. Therefore, it is believed that synthetic
 data generation will be an indispensable part of the next-generation machine learning workflow.
 
+
+<!-- 
+<img decoding="async" src="https://github.com/UCLA-Synthetic-Data/UCLA-Synthetic-Data.github.io/tree/main/docs/assets/img/fig_1.png" width="50%">
 ![fig_1](docs/assets/img/fig_1.png "fig_1")
+-->
+<img src="docs/assets/img/fig_1.png" width = "50%" height = "50%" alt="fig_1" align=center />
+
 
 Despite numerous successful applications of synthetic data, its scientific foundation, e.g., the
 tradeoff among fidelity, utility, and privacy, is still missing. Additionally, industrial standards
@@ -50,15 +54,18 @@ Confirmed speakers at the workshop include:
 - [Xiaowu Dai](https://www.xiaowudai.org/)
 - [Ying Nian Wu](https://www.xiaowudai.org/)
 
+
+<!-- 
 ### Registration
 
-<!-- Registration Rates:
+Registration Rates:
 - $30 - Student
 - $50 - Postdoc, Faculty, Professional
 
-[Click here](https://uclahs.az1.qualtrics.com/jfe/form/SV_8bJEdJEKUs53aCy) to register for the February 3, 2023 Lange Symposium.  -->
+[Click here](https://uclahs.az1.qualtrics.com/jfe/form/SV_8bJEdJEKUs53aCy) to register for the February 3, 2023 Lange Symposium. 
 
 The registration deadline is **January 6, 2023**.
+-->
 
 <!-- 
 ### Diversity Travel Awards
