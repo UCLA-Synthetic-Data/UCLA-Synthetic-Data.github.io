@@ -1,16 +1,49 @@
 # UCLA Synthetic Data Workshop
 
-## TBD at UCLA
+**April 13th - 14th**
 
-**TBD am - TBD pm**
+We are pleased to announce the UCLA synthetic data workshop. This 2-day workshop is hosted by the UCLA Department of Statistics and co-sponsored by [IDRE](https://idre.ucla.edu/) and [UCLA-Amazon Science Hub](https://www.sciencehub.ucla.edu/).
 
-We are pleased to announce our Third Annual Lange Symposium. This year's topic is Computational Statistics. This annual event is hosted by the UCLA Department of Computational Medicine and supported in part by a grant from the National Human Genome Research Institute; R25 HG011845. The Annual Lange Symposium was launched in 2020 to honor UCLA Professor and National Academy of Sciences Fellow Kenneth Lange. The event celebrates the impact of Dr. Lange’s research, mentorship, and teaching over the course of an illustrious career spanning more than four decades.
+The workshop is being held at the [UCLA Faculty Club](https://facultyclub.ucla.edu/). Virtual Link TBD.
 
-The workshop is being held at the TBD.
+### About
+Synthetic data generation is a rapidly growing and highly disciplinary research area that
+draws much attention from both academia and industry. For the development of algorithmic
+procedures for fraud detection and spam identification, as well as for the construction of AIdriven
+models in industries like manufacturing and supply chain management, synthetic data
+has become a valuable resource. The advantages of synthetic data include cost savings, increased
+speed, agility, increased intelligence, and cutting-edge privacy. According to the Gartner report,
+synthetic data will overshadow real data in training machine/deep learning models by 2030; see
+Figure 1. Additionally, the MIT Technology Review named synthetic data as one of its top 10
+game-changing innovations for 2022 earlier this year. Therefore, it is believed that synthetic
+data generation will be an indispensable part of the next-generation machine learning workflow.
 
+![fig_1](docs/assets/img/fig_1.png "fig_1")
 
+Despite numerous successful applications of synthetic data, its scientific foundation, e.g., the
+tradeoff among fidelity, utility, and privacy, is still missing. Additionally, industrial standards
+for generating and utilizing synthetic data are not fully developed. Furthermore, the privacy law
+concerning about synthetic data has not been fully developed. Therefore, one goal of the proposed
+“UCLA Synthetic Data Workshop” is to form a community of synthetic data researchers,
+policymakers, and industrial partners.
+
+### Speakers
 Confirmed speakers at the workshop include:
 - TBD
+
+### Program
+
+### Poster
+
+### Travel Award
+
+### Organizers
+- [Guang Cheng](http://www.stat.ucla.edu/~guangcheng/)
+- [Hongquan Xu](http://www.stat.ucla.edu/~hqxu/)
+- [Jerry Reiter](https://www2.stat.duke.edu/~jerry/)
+- [Mark Mckenna](https://law.ucla.edu/faculty/faculty-profiles/mark-mckenna)
+- [Xiaowu Dai](https://www.xiaowudai.org/)
+- [Ying Nian Wu](https://www.xiaowudai.org/)
 
 ### Registration
 
@@ -22,6 +55,7 @@ Confirmed speakers at the workshop include:
 
 The registration deadline is **January 6, 2023**.
 
+<!-- 
 ### Diversity Travel Awards
 
 We are offering travel awards for attendees who will further the goal of increasing the diversity of the synthetic data  workforce. This includes persons from underrepresented groups (i.e., racial and ethnic minorities, first-generation college students, and persons with disabilities). You may also apply if you are faculty from an advanced degree granting institution with a high enrollment of underrepresented minority students, who would be interested in partnering with UCLA faculty to make symposium and workshop material available to their students. 
@@ -31,6 +65,7 @@ Travel awards will cover travel within the U.S., meals, and lodging.
 [Click here](TBD) to apply for a Travel Award for the February 3, 2023 Lange Symposium. 
 
 The travel award application deadline is **TBD**. Results will be announced December 16 2022.
+-->
 
 ### Accommodation
 
@@ -49,7 +84,7 @@ If you need accommodation, nearby options include the following local hotels.
 
 ### Contact
 
-For more information contact [TBD]
+For more information contact [Prof. Guang Cheng](guangcheng@ucla.edu).
 
 <!-- ### Past Events
 - [2020 Inaugural Lange Symposium](https://langesymposium.github.io/2020/)
