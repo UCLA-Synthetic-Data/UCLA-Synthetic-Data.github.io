@@ -1,6 +1,6 @@
 # UCLA Synthetic Data Workshop
 
-**April 13th - 14th**
+**April 13th - 14th, 2023**
 
 We are pleased to announce the UCLA synthetic data workshop. This 2-day workshop is hosted by the [UCLA Department of Statistics](http://statistics.ucla.edu/) and co-sponsored by [IDRE](https://idre.ucla.edu/) and [UCLA-Amazon Science Hub](https://www.sciencehub.ucla.edu/). The workshop is held at the [UCLA Faculty Club](https://facultyclub.ucla.edu/). Virtual Link TBD.
 
