@@ -47,11 +47,11 @@ Confirmed speakers at the workshop include:
 
 ### Organizers
 - [Guang Cheng](http://www.stat.ucla.edu/~guangcheng/)
-- [Hongquan Xu](http://www.stat.ucla.edu/~hqxu/)
-- [Jerry Reiter](https://www2.stat.duke.edu/~jerry/)
-- [Mark Mckenna](https://law.ucla.edu/faculty/faculty-profiles/mark-mckenna)
 - [Xiaowu Dai](https://www.xiaowudai.org/)
+- [Mark Mckenna](https://law.ucla.edu/faculty/faculty-profiles/mark-mckenna)
+- [Jerry Reiter](https://www2.stat.duke.edu/~jerry/)
 - [Ying Nian Wu](https://www.xiaowudai.org/)
+- [Hongquan Xu](http://www.stat.ucla.edu/~hqxu/)
 
 
 <!-- 
