@@ -23,8 +23,13 @@ data generation will be an indispensable part of the next-generation machine lea
 Despite numerous successful applications of synthetic data, its scientific foundation, e.g., the
 tradeoff among fidelity, utility, and privacy, is still missing. Additionally, industrial standards
 for generating and utilizing synthetic data are not fully developed. Furthermore, the privacy law
-concerning about synthetic data has not been fully developed. Therefore, one goal of this workshop is to form a community of synthetic data researchers,
+concerning about synthetic data has not been fully developed. 
+Therefore, this workshop is to form a community of synthetic data researchers (from statistics, machine learning and mathematics), policymakers, and industrial partners, and bring them together to collaborate on the development of the theory, methodology, and algorithms needed to produce synthetic benchmark datasets and algorithms.
+
+<!--
+Therefore, one goal of this workshop is to form a community of synthetic data researchers,
 policymakers, and industrial partners. This workshop brings together research communities in statistics, computer science, mathematics and law as well as industry leaders to collaborate on the development of the theory, methodology, and algorithms needed to produce synthetic benchmark datasets and algorithms. 
+-->
 
 <!--
 Another purpose is to facilitate data-centric Machine
@@ -84,7 +89,7 @@ If you need accommodation, nearby options include the following local hotels.
 - [W Los Angeles Westwood](https://www.marriott.com/en-us/hotels/laxwb-w-los-angeles-west-beverly-hills/overview/)
 
 ### Organizers
-- [Guang Cheng](http://www.stat.ucla.edu/~guangcheng/)
+- [Guang Cheng](http://www.stat.ucla.edu/~guangcheng/) (Chair)
 - [Xiaowu Dai](https://www.xiaowudai.org/)
 - [Mark Mckenna](https://law.ucla.edu/faculty/faculty-profiles/mark-mckenna)
 - [Jerry Reiter](https://www2.stat.duke.edu/~jerry/)
