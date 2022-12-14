@@ -45,15 +45,6 @@ Confirmed speakers at the workshop include:
 
 ### Travel Award
 
-### Organizers
-- [Guang Cheng](http://www.stat.ucla.edu/~guangcheng/)
-- [Xiaowu Dai](https://www.xiaowudai.org/)
-- [Mark Mckenna](https://law.ucla.edu/faculty/faculty-profiles/mark-mckenna)
-- [Jerry Reiter](https://www2.stat.duke.edu/~jerry/)
-- [Ying Nian Wu](https://www.xiaowudai.org/)
-- [Hongquan Xu](http://www.stat.ucla.edu/~hqxu/)
-
-
 <!-- 
 ### Registration
 
@@ -92,6 +83,14 @@ If you need accommodation, nearby options include the following local hotels.
 - [Royal Palace Westwood](http://www.royalpalacewestwood.com/)
 
 - [W Los Angeles Westwood](https://www.marriott.com/en-us/hotels/laxwb-w-los-angeles-west-beverly-hills/overview/)
+
+### Organizers
+- [Guang Cheng](http://www.stat.ucla.edu/~guangcheng/)
+- [Xiaowu Dai](https://www.xiaowudai.org/)
+- [Mark Mckenna](https://law.ucla.edu/faculty/faculty-profiles/mark-mckenna)
+- [Jerry Reiter](https://www2.stat.duke.edu/~jerry/)
+- [Ying Nian Wu](https://www.xiaowudai.org/)
+- [Hongquan Xu](http://www.stat.ucla.edu/~hqxu/)
 
 ### Contact
 
