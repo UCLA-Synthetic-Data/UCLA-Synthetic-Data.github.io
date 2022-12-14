@@ -25,7 +25,12 @@ tradeoff among fidelity, utility, and privacy, is still missing. Additionally, i
 for generating and utilizing synthetic data are not fully developed. Furthermore, the privacy law
 concerning about synthetic data has not been fully developed. Therefore, one goal of the proposed
 “UCLA Synthetic Data Workshop” is to form a community of synthetic data researchers,
-policymakers, and industrial partners.
+policymakers, and industrial partners. Another purpose is to facilitate data-centric Machine
+Learning research by bringing together investigators in generative models and trustworthy AI
+(privacy, fairness, and robustness) to collaborate on the development of the theory, methodology, 
+and algorithms needed to produce synthetic benchmark datasets and algorithms. This workshop is highly 
+interdisciplinary and brings together research communities in statistics, computer science, mathematics 
+and law as well as industry leaders.
 
 ### Speakers
 Confirmed speakers at the workshop include:
