@@ -79,13 +79,9 @@ The travel award application deadline is **TBD**. Results will be announced Dece
 If you need accommodation, nearby options include the following local hotels.
 
 - [UCLA Meyer & Renee Luskin Conference Center](https://luskinconferencecenter.ucla.edu/hotels-near-ucla/standard-rooms/)
-
 - [UCLA Guest House](http://guesthouse.ucla.edu/)
-
 - [Palihotel Westwood Village](https://www.palisociety.com/hotels/westwood-village)
-
 - [Royal Palace Westwood](http://www.royalpalacewestwood.com/)
-
 - [W Los Angeles Westwood](https://www.marriott.com/en-us/hotels/laxwb-w-los-angeles-west-beverly-hills/overview/)
 
 ### Organizers
