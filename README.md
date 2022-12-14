@@ -2,7 +2,7 @@
 
 **April 13th - 14th**
 
-We are pleased to announce the UCLA synthetic data workshop. This 2-day workshop is hosted by the UCLA Department of Statistics and co-sponsored by [IDRE](https://idre.ucla.edu/) and [UCLA-Amazon Science Hub](https://www.sciencehub.ucla.edu/). The workshop is being held at the [UCLA Faculty Club](https://facultyclub.ucla.edu/). Virtual Link TBD.
+We are pleased to announce the UCLA synthetic data workshop. This 2-day workshop is hosted by the UCLA Department of Statistics and co-sponsored by [IDRE](https://idre.ucla.edu/) and [UCLA-Amazon Science Hub](https://www.sciencehub.ucla.edu/). The workshop is held at the [UCLA Faculty Club](https://facultyclub.ucla.edu/). Virtual Link TBD.
 
 ### About
 Synthetic data generation is a rapidly growing and highly disciplinary area that
@@ -74,7 +74,6 @@ The travel award application deadline is **TBD**. Results will be announced Dece
 If you need accommodation, nearby options include the following local hotels.
 
 - [UCLA Meyer & Renee Luskin Conference Center](https://luskinconferencecenter.ucla.edu/hotels-near-ucla/standard-rooms/)
-(Location of the symposium.)
 
 - [UCLA Guest House](http://guesthouse.ucla.edu/)
 
