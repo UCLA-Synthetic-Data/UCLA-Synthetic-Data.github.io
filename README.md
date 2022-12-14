@@ -21,8 +21,9 @@ data generation will be an indispensable part of the next-generation machine lea
 <img decoding="async" src="https://github.com/UCLA-Synthetic-Data/UCLA-Synthetic-Data.github.io/tree/main/docs/assets/img/fig_1.png" width="50%">
 ![fig_1](docs/assets/img/fig_1.png "fig_1")
 -->
-<img src="docs/assets/img/fig_1.png" width = "50%" height = "50%" alt="fig_1" align=center />
-
+<div align="center">
+<img src="docs/assets/img/fig_1.png" width = "70%" height = "70%" alt="fig_1" align="center" />
+</div>
 
 Despite numerous successful applications of synthetic data, its scientific foundation, e.g., the
 tradeoff among fidelity, utility, and privacy, is still missing. Additionally, industrial standards
