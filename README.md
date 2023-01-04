@@ -18,7 +18,7 @@ data generation will be an indispensable part of the next-generation machine lea
 <div align="center">
 <img src="docs/assets/img/fig_1.png" width = "70%" height = "70%" alt="fig_1" align="center" />
 </div>
-</br>
+<br>
 
 Despite numerous successful applications of synthetic data, its scientific foundation, e.g., the
 tradeoff among fidelity, utility, and privacy, is still missing. Additionally, industrial standards
@@ -100,5 +100,5 @@ For more information contact [Prof. Guang Cheng](guangcheng@ucla.edu).
 
 <div style=" width:400px">
 <div style=" float:left; width:200px;"><img src="docs/assets/img/niss_logo.jpg" width="70%" height="70%"/></div>
-<div style=" float:left; width:75px;"><img src="docs/assets/img/nsf_logo.jpg" width="35%" height="35%"/></div>
+<div style=" float:left; width:200px;"><img src="docs/assets/img/nsf_logo.jpg" width="35%" height="35%"/></div>
 </div>
