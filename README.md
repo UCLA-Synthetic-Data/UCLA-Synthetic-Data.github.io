@@ -100,6 +100,6 @@ For more information contact [Prof. Guang Cheng](guangcheng@ucla.edu).
 
 <div style=" width:400px">
 <div style=" float:left; width:200px;"><img src="docs/assets/img/niss_logo.jpg" width="80%" height="80%"/></div>
-<div style=" float:left; width:200px;"><img src="docs/assets/img/nsf_logo.jpg" width="25%" height="25%"/></div>
+<div style=" float:left; width:200px;"><img src="docs/assets/img/nsf_logo.jpg" width="30%" height="30%"/></div>
 </div>
 <br>
