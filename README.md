@@ -2,7 +2,7 @@
 
 **April 13th - 14th, 2023**
 
-We are pleased to announce the UCLA synthetic data workshop. This 2-day workshop is hosted by the [UCLA Department of Statistics](http://statistics.ucla.edu/) and co-sponsored by [IDRE](https://idre.ucla.edu/), [UCLA-Amazon Science Hub](https://www.sciencehub.ucla.edu/), [NISS](https://www.niss.org/) and [NSF](https://www.nsf.gov/). The workshop is held at the [UCLA Faculty Club](https://facultyclub.ucla.edu/). Virtual Link TBD.
+We are pleased to announce the UCLA synthetic data workshop. This 2-day workshop is hosted by the [UCLA Department of Statistics](http://statistics.ucla.edu/) and co-sponsored by [IDRE](https://idre.ucla.edu/), [UCLA-Amazon Science Hub](https://www.sciencehub.ucla.edu/), [NISS](https://www.niss.org/), [ASA](https://www.amstat.org/) and [NSF](https://www.nsf.gov/). The workshop is held at the [UCLA Faculty Club](https://facultyclub.ucla.edu/). Virtual Link TBD.
 
 ### About
 Synthetic data generation is a rapidly growing and highly disciplinary area that
@@ -42,11 +42,11 @@ and law as well as industry leaders.
 
 ### Speakers
 Confirmed speakers at the workshop include:
-- [Alessandro Achille](https://alexachi.github.io/)
-- [Xiao-Li Meng](https://statistics.fas.harvard.edu/people/xiao-li-meng)
-- [Nanyun Peng](https://vnpeng.net/)
-- [Kalyan Veeramachaneni](https://idss.mit.edu/staff/kalyan-veeramachaneni/)
-- [Bolei Zhou](https://boleizhou.github.io/)
+- [Alessandro Achille, Amazon](https://alexachi.github.io/)
+- [Xiao-Li Meng, Harvard](https://statistics.fas.harvard.edu/people/xiao-li-meng)
+- [Nanyun Peng, UCLA](https://vnpeng.net/)
+- [Kalyan Veeramachaneni, MIT](https://idss.mit.edu/staff/kalyan-veeramachaneni/)
+- [Bolei Zhou, UCLA](https://boleizhou.github.io/)
 
 ### Program
 
@@ -82,12 +82,12 @@ If you need accommodation, nearby options include the following local hotels.
 - [W Los Angeles Westwood](https://www.marriott.com/en-us/hotels/laxwb-w-los-angeles-west-beverly-hills/overview/)
 
 ### Organizers
-- [Guang Cheng](http://www.stat.ucla.edu/~guangcheng/) (Chair)
-- [Xiaowu Dai](https://www.xiaowudai.org/)
-- [Mark Mckenna](https://law.ucla.edu/faculty/faculty-profiles/mark-mckenna)
-- [Jerry Reiter](https://www2.stat.duke.edu/~jerry/)
-- [Ying Nian Wu](https://www.xiaowudai.org/)
-- [Hongquan Xu](http://www.stat.ucla.edu/~hqxu/)
+- [Guang Cheng, UCLA Statistics](http://www.stat.ucla.edu/~guangcheng/) (Chair)
+- [Xiaowu Dai, UCLA Statistics](https://www.xiaowudai.org/)
+- [Mark Mckenna, UCLA School of Law](https://law.ucla.edu/faculty/faculty-profiles/mark-mckenna)
+- [Jerry Reiter, Duke Statistics](https://www2.stat.duke.edu/~jerry/)
+- [Ying Nian Wu, UCLA Statistics](http://www.stat.ucla.edu/~ywu/)
+- [Hongquan Xu, UCLA Statistics](http://www.stat.ucla.edu/~hqxu/)
 
 ### Contact
 
@@ -98,8 +98,9 @@ For more information contact [Prof. Guang Cheng](guangcheng@ucla.edu).
 - [2022 July Lange Symposium Workshop](https://langesymposium.github.io/2022-July-Workshop/)
 - [2022 October Lange Symposium](https://langesymposium.github.io/2022-October-Symposium/) -->
 
-<div style=" width:400px">
+<div style=" width:600px">
 <div style=" float:left; width:200px;"><img src="docs/assets/img/niss_logo.jpg" width="80%" height="80%"/></div>
 <div style=" float:left; width:200px;"><img src="docs/assets/img/nsf_logo.jpg" width="30%" height="30%"/></div>
+<div style=" float:left; width:200px;"><img src="docs/assets/img/asa_logo.jpg" width="80%" height="80%"/></div>
 </div>
 <br>
