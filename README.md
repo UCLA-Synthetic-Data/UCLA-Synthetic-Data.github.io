@@ -4,11 +4,6 @@
 
 We are pleased to announce the UCLA synthetic data workshop. This 2-day workshop is hosted by the [UCLA Department of Statistics](http://statistics.ucla.edu/) and co-sponsored by [IDRE](https://idre.ucla.edu/), [UCLA-Amazon Science Hub](https://www.sciencehub.ucla.edu/), [NISS](https://www.niss.org/) and [NSF](https://www.nsf.gov/). The workshop is held at the [UCLA Faculty Club](https://facultyclub.ucla.edu/). Virtual Link TBD.
 
-<div style=" width:400px">
-<div style=" float:left; width:200px;"><img src="docs/assets/img/niss_logo.jpg" width="80%" height="80%"/></div>
-<div style=" float:left; width:200px;"><img src="docs/assets/img/nsf_logo.jpg" width="25%" height="25%"/></div>
-</div>
-
 ### About
 Synthetic data generation is a rapidly growing and highly disciplinary area that
 draws much attention from both academia and industry. For the development of algorithmic
@@ -102,3 +97,9 @@ For more information contact [Prof. Guang Cheng](guangcheng@ucla.edu).
 - [2020 Inaugural Lange Symposium](https://langesymposium.github.io/2020/)
 - [2022 July Lange Symposium Workshop](https://langesymposium.github.io/2022-July-Workshop/)
 - [2022 October Lange Symposium](https://langesymposium.github.io/2022-October-Symposium/) -->
+
+<div style=" width:400px">
+<div style=" float:left; width:200px;"><img src="docs/assets/img/niss_logo.jpg" width="80%" height="80%"/></div>
+<div style=" float:left; width:200px;"><img src="docs/assets/img/nsf_logo.jpg" width="25%" height="25%"/></div>
+</div>
+<br>
