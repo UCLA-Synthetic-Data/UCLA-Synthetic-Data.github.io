@@ -98,7 +98,7 @@ For more information contact [Prof. Guang Cheng](guangcheng@ucla.edu).
 - [2022 July Lange Symposium Workshop](https://langesymposium.github.io/2022-July-Workshop/)
 - [2022 October Lange Symposium](https://langesymposium.github.io/2022-October-Symposium/) -->
 
-<div style=" width:100px">
-<div style=" float:left; width:50px;"><img src="docs/assets/img/niss_logo.jpg" width="70%" height="70%"/></div>
-<div style=" float:left; width:50px;"><img src="docs/assets/img/nsf_logo.jpg" width="70%" height="70%"/></div>
+<div style=" width:400px">
+<div style=" float:left; width:200px;"><img src="docs/assets/img/niss_logo.jpg" width="70%" height="70%"/></div>
+<div style=" float:left; width:200px;"><img src="docs/assets/img/nsf_logo.jpg" width="70%" height="70%"/></div>
 </div>
