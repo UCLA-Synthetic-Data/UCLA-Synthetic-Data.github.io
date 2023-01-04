@@ -43,7 +43,7 @@ and law as well as industry leaders.
 ### Speakers
 Confirmed speakers at the workshop include:
 - [Alessandro Achille](https://alexachi.github.io/)
-- [Xiao-li Meng](https://statistics.fas.harvard.edu/people/xiao-li-meng)
+- [Xiao-Li Meng](https://statistics.fas.harvard.edu/people/xiao-li-meng)
 - [Nanyun Peng](https://vnpeng.net/)
 - [Kalyan Veeramachaneni](https://idss.mit.edu/staff/kalyan-veeramachaneni/)
 - [Bolei Zhou](https://boleizhou.github.io/)
