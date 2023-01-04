@@ -99,5 +99,5 @@ For more information contact [Prof. Guang Cheng](guangcheng@ucla.edu).
 
 <div style=" width:400px">
 <div style=" float:left; width:200px;"><img src="docs/assets/img/niss_logo.jpg" width="70%" height="70%"/></div>
-<div style=" float:left; width:200px;"><img src="docs/assets/img/nsf_logo.jpg" width="70%" height="70%"/></div>
+<div style=" float:left; width:200px;"><img src="docs/assets/img/nsf_logo.jpg" width="35%" height="35%"/></div>
 </div>
