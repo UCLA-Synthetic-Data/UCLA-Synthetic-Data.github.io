@@ -43,10 +43,10 @@ and law as well as industry leaders.
 ### Speakers
 Confirmed speakers at the workshop include:
 - [Alessandro Achille, Amazon](https://alexachi.github.io/)
-- [Xiao-Li Meng, Harvard](https://statistics.fas.harvard.edu/people/xiao-li-meng)
-- [Nanyun Peng, UCLA](https://vnpeng.net/)
-- [Kalyan Veeramachaneni, MIT](https://idss.mit.edu/staff/kalyan-veeramachaneni/)
-- [Bolei Zhou, UCLA](https://boleizhou.github.io/)
+- [Xiao-Li Meng, Harvard Statistics](https://statistics.fas.harvard.edu/people/xiao-li-meng)
+- [Nanyun Peng, UCLA Computer Science](https://vnpeng.net/)
+- [Kalyan Veeramachaneni, MIT LIDS](https://idss.mit.edu/staff/kalyan-veeramachaneni/)
+- [Bolei Zhou, UCLA Computer Science](https://boleizhou.github.io/)
 
 ### Program
 
@@ -101,6 +101,6 @@ For more information contact [Prof. Guang Cheng](guangcheng@ucla.edu).
 <div style=" width:600px">
 <div style=" float:left; width:200px;"><img src="docs/assets/img/niss_logo.jpg" width="80%" height="80%"/></div>
 <div style=" float:left; width:200px;"><img src="docs/assets/img/nsf_logo.jpg" width="30%" height="30%"/></div>
-<div style=" float:left; width:200px;"><img src="docs/assets/img/asa_logo.jpg" width="80%" height="80%"/></div>
+<div style=" float:left; width:200px;"><img src="docs/assets/img/asa_logo.png" width="80%" height="80%"/></div>
 </div>
 <br>
