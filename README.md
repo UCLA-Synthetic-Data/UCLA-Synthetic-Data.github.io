@@ -18,7 +18,6 @@ data generation will be an indispensable part of the next-generation machine lea
 <div align="center">
 <img src="docs/assets/img/fig_1.png" width = "70%" height = "70%" alt="fig_1" align="center" />
 </div>
-<br/>
 
 Despite numerous successful applications of synthetic data, its scientific foundation, e.g., the
 tradeoff among fidelity, utility, and privacy, is still missing. Additionally, industrial standards
