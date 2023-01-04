@@ -42,7 +42,11 @@ and law as well as industry leaders.
 
 ### Speakers
 Confirmed speakers at the workshop include:
-- TBD
+- [Alessandro Achille](https://alexachi.github.io/)
+- [Xiao-li Meng](https://statistics.fas.harvard.edu/people/xiao-li-meng)
+- [Nanyun Peng](https://vnpeng.net/)
+- [Kalyan Veeramachaneni](https://idss.mit.edu/staff/kalyan-veeramachaneni/)
+- [Bolei Zhou](https://boleizhou.github.io/)
 
 ### Program
 
@@ -50,17 +54,10 @@ Confirmed speakers at the workshop include:
 
 ### Travel Award
 
-<!-- 
 ### Registration
+[Click here](https://docs.google.com/forms/d/e/1FAIpQLSewDipcynt5OlyOxwNsLOjdwf2S5qyxWzjABxkEq3dnQyAntw/viewform?usp=pp_url) to register for the April 13th - 14th, 2023 UCLA synthetic data workshop. 
 
-Registration Rates:
-- $30 - Student
-- $50 - Postdoc, Faculty, Professional
-
-[Click here](https://uclahs.az1.qualtrics.com/jfe/form/SV_8bJEdJEKUs53aCy) to register for the February 3, 2023 Lange Symposium. 
-
-The registration deadline is **January 6, 2023**.
--->
+The registration deadline is **TBD, 2023**.
 
 <!-- 
 ### Diversity Travel Awards
