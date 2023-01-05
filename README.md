@@ -101,6 +101,6 @@ For more information contact [Prof. Guang Cheng](guangcheng@ucla.edu).
 <div style=" width:600px">
 <div style=" float:left; width:200px;"><img src="docs/assets/img/niss_logo.jpg" width="80%" height="80%"/></div>
 <div style=" float:left; width:100px;"><img src="docs/assets/img/nsf_logo.jpg" width="60%" height="60%"/></div>
-<div style=" float:left; width:200px;"><img src="docs/assets/img/asac_logo.jpg" width="100%" height="100%"/></div>
+<div style=" float:left; width:200px;"><img src="docs/assets/img/asac_logo.jpg" width="40%" height="40%"/></div>
 </div>
 <br>
