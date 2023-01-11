@@ -43,6 +43,7 @@ and law as well as industry leaders.
 ### Speakers
 Confirmed speakers at the workshop include:
 - [Alessandro Achille, Amazon](https://alexachi.github.io/)
+- [Tobias Hann](https://www.linkedin.com/in/tobiashann/), [MOSTLY AI](https://mostly.ai/)
 - [Xiao-Li Meng, Harvard Statistics](https://statistics.fas.harvard.edu/people/xiao-li-meng)
 - [Nanyun Peng, UCLA Computer Science](https://vnpeng.net/)
 - [Kalyan Veeramachaneni, MIT LIDS](https://idss.mit.edu/staff/kalyan-veeramachaneni/)
