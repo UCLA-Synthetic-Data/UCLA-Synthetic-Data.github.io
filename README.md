@@ -40,12 +40,14 @@ interdisciplinary and brings together research communities in statistics, comput
 and law as well as industry leaders.
 -->
 
-### Speakers
-Confirmed speakers at the workshop include:
+### Speakers and Panelists
+Confirmed speakers/panelists at the workshop include:
 - [Alessandro Achille, Amazon](https://alexachi.github.io/)
+- [Ali Golshan](https://www.linkedin.com/in/ali-golshan), [Gretel.ai](https://gretel.ai/)
 - [Tobias Hann](https://www.linkedin.com/in/tobiashann/), [MOSTLY AI](https://mostly.ai/)
 - [Xiao-Li Meng, Harvard Statistics](https://statistics.fas.harvard.edu/people/xiao-li-meng)
 - [Nanyun Peng, UCLA Computer Science](https://vnpeng.net/)
+- [Jimeng Sun, UIUC Computer Science](https://www.sunlab.org/)
 - [Kalyan Veeramachaneni, MIT LIDS](https://idss.mit.edu/staff/kalyan-veeramachaneni/)
 - [Bolei Zhou, UCLA Computer Science](https://boleizhou.github.io/)
 
@@ -53,12 +55,16 @@ Confirmed speakers at the workshop include:
 
 ### Poster
 
-### Travel Award
+### Travel Support
+Travel support is available for junior participants (who received PhD degree after 2018), invited speakers and panel discussants.
 
 ### Registration
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSewDipcynt5OlyOxwNsLOjdwf2S5qyxWzjABxkEq3dnQyAntw/viewform?usp=pp_url) to register for the April 13th - 14th, 2023 UCLA synthetic data workshop. 
+<!-- 
+https://docs.google.com/forms/d/e/1FAIpQLSewDipcynt5OlyOxwNsLOjdwf2S5qyxWzjABxkEq3dnQyAntw/viewform?usp=pp_url 
+-->
+[Click here]() to register for the April 13th - 14th, 2023 UCLA synthetic data workshop. 
 
-The registration deadline is **TBD, 2023**.
+The registration deadline is **March 15th, 2023**.
 
 <!-- 
 ### Diversity Travel Awards
