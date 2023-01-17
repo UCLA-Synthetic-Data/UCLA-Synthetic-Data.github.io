@@ -12,8 +12,7 @@ models in industries like manufacturing and supply chain management, synthetic d
 has become a valuable resource. The advantages of synthetic data include cost savings, increased
 speed, agility, increased intelligence, and cutting-edge privacy. According to the Gartner report,
 synthetic data will overshadow real data in training machine/deep learning models by 2030; see
-Figure below. Additionally, the [MIT Technology Review](https://www.technologyreview.com/2022/02/23/1045416/10-breakthrough-technologies-2022/#synthetic-data-for-ai) named synthetic data as one of its top 10 game-changing innovations for 2022 earlier this year. Therefore, it is believed that synthetic
-data generation will be an indispensable part of the next-generation machine learning workflow.
+Figure below. Additionally, the [MIT Technology Review](https://www.technologyreview.com/2022/02/23/1045416/10-breakthrough-technologies-2022/#synthetic-data-for-ai) named synthetic data as one of its top 10 game-changing innovations for 2022 earlier this year. Synthetic data is everywhere: image, text, graph and tabular data; it has different names: simulated data (for computational chemists); missing value imputation (for clinicians), and more recently, GAN (for computer scientists) etc. Therefore, it is believed that synthetic data generation will be an indispensable part of the next-generation machine learning workflow.
 
 <div align="center">
 <img src="docs/assets/img/fig_1.png" width = "70%" height = "70%" alt="fig_1" align="center" />
@@ -45,6 +44,7 @@ Confirmed speakers/panelists at the workshop include:
 - [Alessandro Achille, Amazon](https://alexachi.github.io/)
 - [Ali Golshan](https://www.linkedin.com/in/ali-golshan), [Gretel.ai](https://gretel.ai/)
 - [Tobias Hann](https://www.linkedin.com/in/tobiashann/), [MOSTLY AI](https://mostly.ai/)
+- [Guang Lin, Purdue Mathematics](https://www.math.purdue.edu/~lin491/)
 - [Xiao-Li Meng, Harvard Statistics](https://statistics.fas.harvard.edu/people/xiao-li-meng)
 - [Nanyun Peng, UCLA Computer Science](https://vnpeng.net/)
 - [Jimeng Sun, UIUC Computer Science](https://www.sunlab.org/)
