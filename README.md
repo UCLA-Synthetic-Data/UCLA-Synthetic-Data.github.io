@@ -48,6 +48,7 @@ Confirmed speakers/panelists at the workshop include:
 - [Guang Lin, Purdue Mathematics](https://www.math.purdue.edu/~lin491/)
 - [Xiao-Li Meng, Harvard Statistics](https://statistics.fas.harvard.edu/people/xiao-li-meng)
 - [Nanyun Peng, UCLA Computer Science](https://vnpeng.net/)
+- [Lucas Rosenblatt, NYU Center for Responsible AI](https://www.lucasrosenblatt.com/)
 - [Jimeng Sun, UIUC Computer Science](https://www.sunlab.org/)
 - [Kalyan Veeramachaneni, MIT LIDS](https://idss.mit.edu/staff/kalyan-veeramachaneni/)
 - [Yunkai Zhang, UCB IEOR](https://www.linkedin.com/in/zhang-yunkai/)
