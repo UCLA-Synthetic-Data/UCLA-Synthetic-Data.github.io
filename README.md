@@ -59,7 +59,7 @@ Confirmed speakers/panelists at the workshop include:
 ### Poster
 
 ### Travel Support
-Travel support is available for junior participants (who received PhD degree after 2018), invited speakers and panel discussants.
+Travel support is available for junior participants (who received PhD degree after 2018), invited speakers and panel discussants. Registration fee will be reimbursed for participants that receive travel support. 
 
 ### Registration
 <!-- 
@@ -68,6 +68,8 @@ https://docs.google.com/forms/d/e/1FAIpQLSewDipcynt5OlyOxwNsLOjdwf2S5qyxWzjABxkE
 [Click here]() to register for the April 13th - 14th, 2023 UCLA synthetic data workshop. 
 
 The registration deadline is **March 15th, 2023**.
+
+**PLEASE NOTE: Submitting the form DOES NOT guarantee a place in the workshop until the registration fee is paid. The registration fee link will become available in Feb.**
 
 <!-- 
 ### Diversity Travel Awards
