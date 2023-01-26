@@ -65,11 +65,11 @@ Travel support is available for junior participants (who received PhD degree aft
 <!-- 
 https://docs.google.com/forms/d/e/1FAIpQLSewDipcynt5OlyOxwNsLOjdwf2S5qyxWzjABxkEq3dnQyAntw/viewform?usp=pp_url 
 -->
-[Click here]() to register for the April 13th - 14th, 2023 UCLA synthetic data workshop. 
+[Click here](https://docs.google.com/forms/d/e/1FAIpQLSewDipcynt5OlyOxwNsLOjdwf2S5qyxWzjABxkEq3dnQyAntw/viewform?usp=pp_url) to register for the April 13th - 14th, 2023 UCLA synthetic data workshop. 
 
 The registration deadline is **March 15th, 2023**.
 
-**PLEASE NOTE: Submitting the form DOES NOT guarantee a place in the workshop until the registration fee is paid. The registration fee link will become available in Feb.**
+**PLEASE NOTE: Submitting the above Google form DOES NOT guarantee a place in the workshop until the registration fee is paid. The registration fee link will become available in Feb. and we will inform those who registered via email then.**
 
 <!-- 
 ### Diversity Travel Awards
