@@ -53,6 +53,7 @@ Confirmed speakers/panelists at the workshop include:
 - [Jimeng Sun, UIUC Computer Science](https://www.sunlab.org/)
 - [Kalyan Veeramachaneni, MIT LIDS](https://idss.mit.edu/staff/kalyan-veeramachaneni/)
 - [Roman Vershynin, UCI Mathematics](https://www.math.uci.edu/~rvershyn/)
+- [Steven Wu, CMU CS](https://zstevenwu.com/)
 - [Yunkai Zhang, UCB IEOR](https://www.linkedin.com/in/zhang-yunkai/)
 - [Bolei Zhou, UCLA Computer Science](https://boleizhou.github.io/)
 
