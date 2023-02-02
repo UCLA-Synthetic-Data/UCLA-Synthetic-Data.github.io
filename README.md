@@ -49,11 +49,13 @@ Confirmed speakers/panelists at the workshop include:
 - [Xiao-Li Meng, Harvard Statistics](https://statistics.fas.harvard.edu/people/xiao-li-meng)
 - [Ryan McKenna, Google](https://people.cs.umass.edu/~rmckenna/)
 - [Nanyun Peng, UCLA Computer Science](https://vnpeng.net/)
+- [Vamsi Krishna Potluru, Chase AI](https://www.linkedin.com/in/vamsi-krishna-potluru-7b64884b)
 - [Lucas Rosenblatt, NYU Center for Responsible AI](https://www.lucasrosenblatt.com/)
 - [Jimeng Sun, UIUC Computer Science](https://www.sunlab.org/)
 - [Kalyan Veeramachaneni, MIT LIDS](https://idss.mit.edu/staff/kalyan-veeramachaneni/)
 - [Roman Vershynin, UCI Mathematics](https://www.math.uci.edu/~rvershyn/)
 - [Steven Wu, CMU CS](https://zstevenwu.com/)
+- [Belinda Zeng, Amazon](https://www.linkedin.com/in/belindazeng)
 - [Yunkai Zhang, UCB IEOR](https://www.linkedin.com/in/zhang-yunkai/)
 - [Bolei Zhou, UCLA Computer Science](https://boleizhou.github.io/)
 
