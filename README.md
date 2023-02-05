@@ -39,7 +39,7 @@ interdisciplinary and brings together research communities in statistics, comput
 and law as well as industry leaders.
 -->
 
-### Speakers and Panelists
+<!-- ### Speakers and Panelists
 Confirmed speakers/panelists at the workshop include:
 - [Alessandro Achille, Amazon](https://alexachi.github.io/)
 - [Ali Golshan](https://www.linkedin.com/in/ali-golshan), [Gretel.ai](https://gretel.ai/)
@@ -58,9 +58,37 @@ Confirmed speakers/panelists at the workshop include:
 - [Alexandra Wood, Harvard Berkman Klein Center](https://cyber.harvard.edu/people/awood)
 - [Belinda Zeng, Amazon](https://www.linkedin.com/in/belindazeng)
 - [Yunkai Zhang, UCB IEOR](https://www.linkedin.com/in/zhang-yunkai/)
-- [Bolei Zhou, UCLA Computer Science](https://boleizhou.github.io/)
+- [Bolei Zhou, UCLA Computer Science](https://boleizhou.github.io/) -->
 
 ### Program
+##### Keynote speakers (40 mins/talk): 
+- [Xiao-Li Meng, Harvard Statistics](https://statistics.fas.harvard.edu/people/xiao-li-meng)
+- [Kalyan Veeramachaneni, MIT LIDS](https://idss.mit.edu/staff/kalyan-veeramachaneni/)
+- [Roman Vershynin, UCI Mathematics](https://www.math.uci.edu/~rvershyn/)
+
+##### Panelists: 
+- [Ali Golshan](https://www.linkedin.com/in/ali-golshan), [Gretel.ai](https://gretel.ai/)
+- [Tobias Hann](https://www.linkedin.com/in/tobiashann/), [MOSTLY AI](https://mostly.ai/)
+- [Vamsi Krishna Potluru](https://www.linkedin.com/in/vamsi-krishna-potluru-7b64884b), [J.P. Morgan AI Research](https://www.jpmorgan.com/technology/artificial-intelligence)
+- [Alexandra Wood, Harvard Berkman Klein Center](https://cyber.harvard.edu/people/awood)
+- [Belinda Zeng, Amazon](https://www.linkedin.com/in/belindazeng)
+
+##### Inivted sessioin 1 (30 mins/talk): Structured Synthetic Data (Tabular and Time Series)
+- [Ryan McKenna, Google](https://people.cs.umass.edu/~rmckenna/)
+- [Ching-Yun (Irene) Ko, MIT EECS](https://ireneko.github.io/)
+- [Yunkai Zhang, UCB IEOR](https://www.linkedin.com/in/zhang-yunkai/)
+
+##### Inivted sessioin 2 (30 mins/talk): Trustworthiness of Synthetic Data
+- [Lucas Rosenblatt, NYU Center for Responsible AI](https://www.lucasrosenblatt.com/)
+- [Jimeng Sun, UIUC Computer Science](https://www.sunlab.org/)
+- [Steven Wu, CMU CS](https://zstevenwu.com/)
+
+##### Inivted sessioin 3 (30 mins/talk):  Generative models for text/image data
+- [Alessandro Achille, Amazon](https://alexachi.github.io/)
+- [Nanyun Peng, UCLA Computer Science](https://vnpeng.net/)
+- [Bolei Zhou, UCLA Computer Science](https://boleizhou.github.io/)
+
+##### Inivted sessioin 4 (30 mins/talk):  Synthetic data for social & medical science
 
 ### Poster
 
