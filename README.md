@@ -2,17 +2,17 @@
 
 **April 13th - 14th, 2023**
 
-We are pleased to announce the UCLA synthetic data workshop. This 2-day workshop is hosted by the [UCLA Department of Statistics](http://statistics.ucla.edu/) and co-sponsored by [IDRE](https://idre.ucla.edu/), [UCLA-Amazon Science Hub](https://www.sciencehub.ucla.edu/), [ASA Section on Statistical Computing](https://community.amstat.org/jointscsg-section/home), [NISS](https://www.niss.org/) and [NSF](https://www.nsf.gov/). The workshop is held at the [UCLA Faculty Club](https://facultyclub.ucla.edu/). Virtual Link TBD.
+We are pleased to announce the UCLA synthetic data workshop. This two-day workshop is hosted by the [UCLA Department of Statistics](http://statistics.ucla.edu/) and co-sponsored by [IDRE](https://idre.ucla.edu/), [Science Hub for Humanity and Artificial Intelligence](https://www.sciencehub.ucla.edu/), [ASA Section on Statistical Computing](https://community.amstat.org/jointscsg-section/home), [NISS](https://www.niss.org/) and [NSF](https://www.nsf.gov/). The workshop is held at the [UCLA Faculty Club](https://facultyclub.ucla.edu/) from April 13-14, 2023.
 
 ### About
-Synthetic data generation is a rapidly growing and highly disciplinary area that
+Synthetic data generation is a rapidly growing and highly interdisciplinary area that
 draws much attention from both academia and industry. For the development of algorithmic
 procedures for fraud detection and spam identification, as well as for the construction of AI-driven
 models in industries like manufacturing and supply chain management, synthetic data
 has become a valuable resource. The advantages of synthetic data include cost savings, increased
 speed, agility, increased intelligence, and cutting-edge privacy. According to the Gartner report,
 synthetic data will overshadow real data in training machine/deep learning models by 2030; see
-Figure below. Additionally, the [MIT Technology Review](https://www.technologyreview.com/2022/02/23/1045416/10-breakthrough-technologies-2022/#synthetic-data-for-ai) named synthetic data as one of its top 10 game-changing innovations for 2022 earlier this year. Synthetic data is everywhere: image, text, graph and tabular data; it has different names: simulated data (for computational chemists); missing value imputation (for clinicians), and more recently, GAN (for computer scientists) etc. Therefore, it is believed that synthetic data generation will be an indispensable part of the next-generation machine learning workflow.
+Figure below. Additionally, the [MIT Technology Review](https://www.technologyreview.com/2022/02/23/1045416/10-breakthrough-technologies-2022/#synthetic-data-for-ai) named synthetic data as one of its top 10 game-changing innovations for 2022. Synthetic data is everywhere: image, text, graph and tabular data; it has different names: simulated data (for physical scientists); missing value imputation (for statisticians), and more recently, GAN (for computer scientists) etc. Therefore, it is believed that synthetic data generation will be an indispensable part of the next-generation machine learning workflow.
 
 <div align="center">
 <img src="docs/assets/img/fig_1.png" width = "70%" height = "70%" alt="fig_1" align="center" />
@@ -21,8 +21,7 @@ Figure below. Additionally, the [MIT Technology Review](https://www.technologyre
 
 Despite numerous successful applications of synthetic data, its scientific foundation, e.g., the
 tradeoff among fidelity, utility, and privacy, is still missing. Additionally, industrial standards
-for generating and utilizing synthetic data are not fully developed. Furthermore, the privacy law
-concerning about synthetic data has not been fully developed. 
+for generating and utilizing synthetic data are not fully developed. Furthermore, the privacy law on synthetic data is still in its infancy. 
 Therefore, this workshop is to form a community of synthetic data researchers (from statistics, machine learning and mathematics), policymakers, and industrial partners, and bring them together to collaborate on the development of the theory, methodology, and algorithms needed to produce synthetic benchmark datasets and algorithms.
 
 <!--
@@ -60,7 +59,7 @@ Confirmed speakers/panelists at the workshop include:
 - [Yunkai Zhang, UCB IEOR](https://www.linkedin.com/in/zhang-yunkai/)
 - [Bolei Zhou, UCLA Computer Science](https://boleizhou.github.io/) -->
 
-### Program
+### Tentative Program
 ##### Keynote speakers (40 mins/talk): 
 - [Xiao-Li Meng, Harvard Statistics](https://statistics.fas.harvard.edu/people/xiao-li-meng)
 - [Kalyan Veeramachaneni, MIT LIDS](https://kalyan.lids.mit.edu/), [DataCebo](https://datacebo.com/)
@@ -73,22 +72,22 @@ Confirmed speakers/panelists at the workshop include:
 - [Alexandra Wood, Harvard Berkman Klein Center](https://cyber.harvard.edu/people/awood)
 - [Belinda Zeng, Amazon](https://www.linkedin.com/in/belindazeng)
 
-##### Inivted sessioin 1 (30 mins/talk): Structured Synthetic Data (Tabular and Time Series)
+##### Invited Session 1 (30 mins/talk): Structured Synthetic Data (Tabular and Time Series)
 - [Ryan McKenna, Google](https://people.cs.umass.edu/~rmckenna/)
 - [Ching-Yun (Irene) Ko, MIT EECS](https://ireneko.github.io/)
 - [Yunkai Zhang, UCB IEOR](https://www.linkedin.com/in/zhang-yunkai/)
 
-##### Inivted sessioin 2 (30 mins/talk): Trustworthiness of Synthetic Data
+##### Invited Session 2 (30 mins/talk): Trustworthiness of Synthetic Data
 - [Lucas Rosenblatt, NYU Center for Responsible AI](https://www.lucasrosenblatt.com/)
 - [Jimeng Sun, UIUC Computer Science](https://www.sunlab.org/)
 - [Steven Wu, CMU CS](https://zstevenwu.com/)
 
-##### Inivted sessioin 3 (30 mins/talk):  Generative models for text/image data
+##### Invited Session 3 (30 mins/talk):  Generative Models for Text/Image Data
 - [Alessandro Achille, Amazon](https://alexachi.github.io/)
 - [Nanyun Peng, UCLA Computer Science](https://vnpeng.net/)
 - [Bolei Zhou, UCLA Computer Science](https://boleizhou.github.io/)
 
-##### Inivted sessioin 4 (30 mins/talk):  Synthetic data for social & medical science
+##### Invited Session 4 (30 mins/talk):  Synthetic Data for Social & Medical Sciences
 
 ### Poster
 
