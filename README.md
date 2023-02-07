@@ -63,7 +63,7 @@ Confirmed speakers/panelists at the workshop include:
 ### Program
 ##### Keynote speakers (40 mins/talk): 
 - [Xiao-Li Meng, Harvard Statistics](https://statistics.fas.harvard.edu/people/xiao-li-meng)
-- [Kalyan Veeramachaneni, MIT LIDS](https://idss.mit.edu/staff/kalyan-veeramachaneni/)
+- [Kalyan Veeramachaneni, MIT LIDS](https://kalyan.lids.mit.edu/), [DataCebo](https://datacebo.com/)
 - [Roman Vershynin, UCI Mathematics](https://www.math.uci.edu/~rvershyn/)
 
 ##### Panelists: 
