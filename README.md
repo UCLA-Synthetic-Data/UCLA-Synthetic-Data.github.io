@@ -147,6 +147,6 @@ For more information contact [Prof. Guang Cheng](guangcheng@ucla.edu).
 <div style=" float:left; width:200px;"><img src="docs/assets/img/niss_logo_nbg.png" width="80%" height="80%"/></div>
 <div style=" float:left; width:100px;"><img src="docs/assets/img/nsf_logo_nbg.png" width="67%" height="67%"/></div>
 <div style=" float:left; width:100px;"><img src="docs/assets/img/asac_logo_nbg.png" width="60%" height="60%"/></div>
-<div style=" float:left; width:200px;"><img src="docs/assets/img/amazon_idre_logo_nbg.png" width="80%" height="80%"/></div>
+<div style=" float:left; width:200px;"><img src="docs/assets/img/amazon_idre_logo_nbg.png" width="80%" height="70%"/></div>
 </div>
 <br>
