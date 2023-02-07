@@ -151,6 +151,6 @@ For more information contact [Prof. Guang Cheng](guangcheng@ucla.edu).
 
 <div style=" width:400px">
 <div style=" float:left; width:200px;"><img src="docs/assets/img/amazon_logo.png" width="80%" height="80%"/></div>
-<div style=" float:left; width:200px;"><img src="docs/assets/img/idre_logo.jpg" width="30%" height="30%"/></div>
+<div style=" float:left; width:200px;"><img src="docs/assets/img/idre_logo.png" width="30%" height="30%"/></div>
 </div>
 <br>
