@@ -80,7 +80,7 @@ Confirmed speakers/panelists at the workshop include:
 ##### Invited Session 2 (30 mins/talk): Trustworthiness of Synthetic Data
 - [Lucas Rosenblatt, NYU Center for Responsible AI](https://www.lucasrosenblatt.com/)
 - [Jimeng Sun, UIUC Computer Science](https://www.sunlab.org/)
-- [Steven Wu, CMU CS](https://zstevenwu.com/)
+- [Steven Wu, CMU Computer Science](https://zstevenwu.com/)
 
 ##### Invited Session 3 (30 mins/talk):  Generative Models for Text/Image Data
 - [Alessandro Achille, Amazon](https://alexachi.github.io/)
