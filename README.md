@@ -143,11 +143,11 @@ For more information contact [Prof. Guang Cheng](guangcheng@ucla.edu).
 - [2022 July Lange Symposium Workshop](https://langesymposium.github.io/2022-July-Workshop/)
 - [2022 October Lange Symposium](https://langesymposium.github.io/2022-October-Symposium/) -->
 
-<div style=" width:600px">
-<div style=" float:left; width:100px;"><img src="docs/assets/img/niss_logo.jpg" width="80%" height="80%"/></div>
+<div style=" width:900px">
+<div style=" float:left; width:200px;"><img src="docs/assets/img/niss_logo.jpg" width="80%" height="80%"/></div>
 <div style=" float:left; width:100px;"><img src="docs/assets/img/nsf_logo.jpg" width="67%" height="67%"/></div>
-<div style=" float:left; width:100px;"><img src="docs/assets/img/asac_logo.jpg" width="30%" height="30%"/></div>
+<div style=" float:left; width:100px;"><img src="docs/assets/img/asac_logo.jpg" width="60%" height="60%"/></div>
 <div style=" float:left; width:100px;"><img src="docs/assets/img/amazon_logo.png" width="80%" height="80%"/></div>
-<div style=" float:left; width:100px;"><img src="docs/assets/img/idre_logo.png" width="80%" height="80%"/></div>
+<div style=" float:left; width:200px;"><img src="docs/assets/img/idre_logo.png" width="80%" height="80%"/></div>
 </div>
 <br>
