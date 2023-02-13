@@ -61,6 +61,7 @@ Confirmed speakers/panelists at the workshop include:
 
 ### Tentative Program
 ##### Keynote speakers (40 mins/talk): 
+- [Aloni Cohen, UChicago Computer Science](https://cs.uchicago.edu/people/aloni-cohen/)
 - [Xiao-Li Meng, Harvard Statistics](https://statistics.fas.harvard.edu/people/xiao-li-meng)
 - [Kalyan Veeramachaneni, MIT LIDS](https://kalyan.lids.mit.edu/), [DataCebo](https://datacebo.com/)
 - [Roman Vershynin, UCI Mathematics](https://www.math.uci.edu/~rvershyn/)
