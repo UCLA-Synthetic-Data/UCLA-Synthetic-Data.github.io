@@ -60,6 +60,7 @@ Confirmed speakers/panelists at the workshop include:
 - [Bolei Zhou, UCLA Computer Science](https://boleizhou.github.io/) -->
 
 ### Tentative Program
+Each day runs from 9-5 up to some finetuning.
 ##### Keynote speakers (40 mins/talk): 
 - [Aloni Cohen, UChicago Computer Science](https://cs.uchicago.edu/people/aloni-cohen/)
 - [Xiao-Li Meng, Harvard Statistics](https://statistics.fas.harvard.edu/people/xiao-li-meng)
