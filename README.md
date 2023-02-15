@@ -85,13 +85,13 @@ Each day runs from 9-5 up to some finetuning.
 - [Steven Wu, CMU Computer Science](https://zstevenwu.com/)
 
 ##### Invited Session 3 (30 mins/talk):  Generative Models for Text/Image Data
-- [Ying Nian Wu, UCLA Statistics](http://www.stat.ucla.edu/~ywu/) (Session Chair)
+Session Chair: [Ying Nian Wu, UCLA Statistics](http://www.stat.ucla.edu/~ywu/) 
 - [Alessandro Achille, Amazon](https://alexachi.github.io/)
 - [Nanyun Peng, UCLA Computer Science](https://vnpeng.net/)
 - [Bolei Zhou, UCLA Computer Science](https://boleizhou.github.io/)
 
 ##### Invited Session 4 (30 mins/talk):  Synthetic Data for Social & Medical Sciences
-- [Andrés Felipe Barrientos, FSU Statistics](https://anfebar.github.io/) (Session Chair)
+Session Chair: [Andrés Felipe Barrientos, FSU Statistics](https://anfebar.github.io/)
 - [Joerg Drechsler, IAB in Germany](https://doku.iab.de/mitarbeiter/vita_drechsler.pdf)
 - [Joshua Snoke, RAND](https://www.rand.org/about/people/s/snoke_joshua.html)
 - [Aaron Williams, Urban Institute](https://www.urban.org/author/aaron-r-williams)
