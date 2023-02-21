@@ -68,6 +68,7 @@ Each day runs from 9-5 up to some finetuning.
 - [Roman Vershynin, UCI Mathematics](https://www.math.uci.edu/~rvershyn/)
 
 ##### Panelists: 
+- [Nikita Aggarwal](https://law.ucla.edu/faculty/faculty-profiles/nikita-aggarwal)
 - [Ali Golshan](https://www.linkedin.com/in/ali-golshan), [Gretel.ai](https://gretel.ai/)
 - [Tobias Hann](https://www.linkedin.com/in/tobiashann/), [MOSTLY AI](https://mostly.ai/)
 - [Vamsi Krishna Potluru](https://www.linkedin.com/in/vamsi-krishna-potluru-7b64884b), [J.P. Morgan AI Research](https://www.jpmorgan.com/technology/artificial-intelligence)
