@@ -98,6 +98,7 @@ Session Chair: [Andrés Felipe Barrientos, FSU Statistics](https://anfebar.githu
 - [Aaron Williams, Urban Institute](https://www.urban.org/author/aaron-r-williams)
 
 ### Poster
+The poster will be asked to upload in the above registration. The deadline is April 1st. 
 
 ### Travel Support
 Travel support is available for junior participants (who received PhD degree after 2018), invited speakers and panel discussants. Registration fee will be reimbursed for participants that receive travel support. 
@@ -108,7 +109,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSewDipcynt5OlyOxwNsLOjdwf2S5qyxWzjABxkE
 -->
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSewDipcynt5OlyOxwNsLOjdwf2S5qyxWzjABxkEq3dnQyAntw/viewform?usp=pp_url) to register for the April 13th - 14th, 2023 UCLA synthetic data workshop. 
 
-The registration deadline is **March 15th, 2023**.
+The registration deadline is **April 1st, 2023**.
 
 **PLEASE NOTE: Submitting the above Google form DOES NOT guarantee a place in the workshop until the registration fee is paid. The registration fee link will become available in March and we will inform those who registered via email then.**
 
