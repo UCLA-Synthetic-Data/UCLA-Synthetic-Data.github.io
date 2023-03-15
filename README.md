@@ -45,19 +45,33 @@ All events will be held at UCLA faculty club.
 - 13:30-13:50 Group Picture
 - 13:50-14:30 keynote #2
 - 14:30-15:00 coffee/tea
-- 15:00-16:30 invited session #2
+- 15:00-16:30 invited session #2: Trustworthiness of Synthetic Data
+  - Title: Differentially Private Synthetic Data Can Be Accessible and Equitable <br>
+    Speaker: [Lucas Rosenblatt, NYU Center for Responsible AI](https://www.lucasrosenblatt.com/)
+  - Speaker: [Jimeng Sun, UIUC Computer Science](https://www.sunlab.org/)
+  - Speaker: [Steven Wu, CMU Computer Science](https://zstevenwu.com/)
 
 #### Day 2: April 14, Friday
 - 8-9 breakfast & register
 - 9-9:40 keynote #3
 - 9:40-10 coffee/tea
-- 10-11:30 invited session #3
+- 10-11:30 invited session #3:  Generative Models for Text/Image Data
+  Session Chair: [Ying Nian Wu, UCLA Statistics](http://www.stat.ucla.edu/~ywu/) 
+  - Speaker: [Alessandro Achille, Amazon](https://alexachi.github.io/)
+  - Title: Controllable Text Generation Beyond Auto-Regressive Models <br>
+    Speaker: [Nanyun Peng, UCLA Computer Science](https://vnpeng.net/)
+  - Title: Recreating Diverse Traffic Scenarios for Benchmarking Embodied AI Safety in Simulation <br> 
+    Speaker: [Bolei Zhou, UCLA Computer Science](https://boleizhou.github.io/)
 - 11:30-11:50 coffee/tea
 - 11:50-12:30 Panel #2
 - 12:30-13:30 lunch
 - 13:30-14:10 keynote #4
 - 14:10-14:40 coffee/tea
-- 14:40-16:10 invited session #4
+- 14:40-16:10 invited session #4:  Synthetic Data for Social Science
+  Session Chair: [Andrés Felipe Barrientos, FSU Statistics](https://anfebar.github.io/)
+  - Speaker: [Joerg Drechsler, IAB in Germany](https://doku.iab.de/mitarbeiter/vita_drechsler.pdf)
+  - Speaker: [Joshua Snoke, RAND](https://www.rand.org/about/people/s/snoke_joshua.html)
+  - Speaker: [Aaron Williams, Urban Institute](https://www.urban.org/author/aaron-r-williams)
 
 <!--
 ##### Keynote speakers (40 mins/talk): 
