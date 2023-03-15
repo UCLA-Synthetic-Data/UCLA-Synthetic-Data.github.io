@@ -24,43 +24,42 @@ tradeoff among fidelity, utility, and privacy, is still missing. Additionally, i
 for generating and utilizing synthetic data are not fully developed. Furthermore, the privacy law on synthetic data is still in its infancy. 
 Therefore, this workshop is to form a community of synthetic data researchers (from statistics, machine learning and mathematics), policymakers, and industrial partners, and bring them together to collaborate on the development of the theory, methodology, and algorithms needed to produce synthetic benchmark datasets and algorithms.
 
-<!--
-Therefore, one goal of this workshop is to form a community of synthetic data researchers,
-policymakers, and industrial partners. This workshop brings together research communities in statistics, computer science, mathematics and law as well as industry leaders to collaborate on the development of the theory, methodology, and algorithms needed to produce synthetic benchmark datasets and algorithms. 
--->
+### Program
+All events will be held at UCLA faculty club.
+
+#### Day 1: April 13, Thursday
+- 8-8:50 breakfast & register
+- 8:50-9 opening remark
+- 9-9:40 keynote #1
+- 9:40-10 coffee/tea
+- 10-11:30 invited session #1: Structured Synthetic Data (Tabular and Time Series)
+  - Title: Marginal-based methods for differentially private synthetic data <br>
+    Speaker: [Ryan McKenna, Google](https://people.cs.umass.edu/~rmckenna/)
+  - Title: Task-Agnostic Benchmarking of Pretrained Representations using Synthetic Data <br>
+    Speaker: [Ching-Yun (Irene) Ko, MIT EECS](https://ireneko.github.io/)
+  - Title: Continuous Conditional GANs with Generator Regularization <br>
+    Speaker: [Yunkai Zhang, UCB IEOR](https://www.linkedin.com/in/zhang-yunkai/)
+- 11:30-11:50 coffee/tea
+- 11:50-12:30 Panel #1
+- 12:30-13:30 lunch
+- 13:30-13:50 Group Picture
+- 13:50-14:30 keynote #2
+- 14:30-15:00 coffee/tea
+- 15:00-16:30 invited session #2
+
+#### Day 2: April 14, Friday
+- 8-9 breakfast & register
+- 9-9:40 keynote #3
+- 9:40-10 coffee/tea
+- 10-11:30 invited session #3
+- 11:30-11:50 coffee/tea
+- 11:50-12:30 Panel #2
+- 12:30-13:30 lunch
+- 13:30-14:10 keynote #4
+- 14:10-14:40 coffee/tea
+- 14:40-16:10 invited session #4
 
 <!--
-Another purpose is to facilitate data-centric Machine
-Learning research by bringing together investigators in generative models and trustworthy AI
-(privacy, fairness, and robustness) to collaborate on the development of the theory, methodology, 
-and algorithms needed to produce synthetic benchmark datasets and algorithms. This workshop is highly 
-interdisciplinary and brings together research communities in statistics, computer science, mathematics 
-and law as well as industry leaders.
--->
-
-<!-- ### Speakers and Panelists
-Confirmed speakers/panelists at the workshop include:
-- [Alessandro Achille, Amazon](https://alexachi.github.io/)
-- [Ali Golshan](https://www.linkedin.com/in/ali-golshan), [Gretel.ai](https://gretel.ai/)
-- [Tobias Hann](https://www.linkedin.com/in/tobiashann/), [MOSTLY AI](https://mostly.ai/)
-- [Ching-Yun (Irene) Ko, MIT EECS](https://ireneko.github.io/)
-- [Guang Lin, Purdue Mathematics](https://www.math.purdue.edu/~lin491/)
-- [Xiao-Li Meng, Harvard Statistics](https://statistics.fas.harvard.edu/people/xiao-li-meng)
-- [Ryan McKenna, Google](https://people.cs.umass.edu/~rmckenna/)
-- [Nanyun Peng, UCLA Computer Science](https://vnpeng.net/)
-- [Vamsi Krishna Potluru](https://www.linkedin.com/in/vamsi-krishna-potluru-7b64884b), [J.P. Morgan AI Research](https://www.jpmorgan.com/technology/artificial-intelligence)
-- [Lucas Rosenblatt, NYU Center for Responsible AI](https://www.lucasrosenblatt.com/)
-- [Jimeng Sun, UIUC Computer Science](https://www.sunlab.org/)
-- [Kalyan Veeramachaneni, MIT LIDS](https://idss.mit.edu/staff/kalyan-veeramachaneni/)
-- [Roman Vershynin, UCI Mathematics](https://www.math.uci.edu/~rvershyn/)
-- [Steven Wu, CMU CS](https://zstevenwu.com/)
-- [Alexandra Wood, Harvard Berkman Klein Center](https://cyber.harvard.edu/people/awood)
-- [Belinda Zeng, Amazon](https://www.linkedin.com/in/belindazeng)
-- [Yunkai Zhang, UCB IEOR](https://www.linkedin.com/in/zhang-yunkai/)
-- [Bolei Zhou, UCLA Computer Science](https://boleizhou.github.io/) -->
-
-### Tentative Program
-Each day runs from 9-5 up to some finetuning. Talk information can be found [here](https://sites.google.com/g.ucla.edu/talkinfo).
 ##### Keynote speakers (40 mins/talk): 
 - [Aloni Cohen, UChicago Computer Science](https://cs.uchicago.edu/people/aloni-cohen/)
 - [Xiao-Li Meng, Harvard Statistics](https://statistics.fas.harvard.edu/people/xiao-li-meng)
@@ -91,11 +90,12 @@ Session Chair: [Ying Nian Wu, UCLA Statistics](http://www.stat.ucla.edu/~ywu/)
 - [Nanyun Peng, UCLA Computer Science](https://vnpeng.net/)
 - [Bolei Zhou, UCLA Computer Science](https://boleizhou.github.io/)
 
-##### Invited Session 4 (30 mins/talk):  Synthetic Data for Social & Medical Sciences
+##### Invited Session 4 (30 mins/talk):  Synthetic Data for Social Science
 Session Chair: [Andrés Felipe Barrientos, FSU Statistics](https://anfebar.github.io/)
 - [Joerg Drechsler, IAB in Germany](https://doku.iab.de/mitarbeiter/vita_drechsler.pdf)
 - [Joshua Snoke, RAND](https://www.rand.org/about/people/s/snoke_joshua.html)
 - [Aaron Williams, Urban Institute](https://www.urban.org/author/aaron-r-williams)
+-->
 
 ### Poster
 The poster will be asked to upload in the above registration. The deadline is April 1st. 
@@ -103,15 +103,10 @@ The poster will be asked to upload in the above registration. The deadline is Ap
 ### Travel Support
 Travel support is available for junior participants (who received PhD degree after 2018), invited speakers and panel discussants. Registration fee will be reimbursed for participants that receive travel support. 
 
-### Registration
-<!-- 
-https://docs.google.com/forms/d/e/1FAIpQLSewDipcynt5OlyOxwNsLOjdwf2S5qyxWzjABxkEq3dnQyAntw/viewform?usp=pp_url 
--->
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSewDipcynt5OlyOxwNsLOjdwf2S5qyxWzjABxkEq3dnQyAntw/viewform?usp=pp_url) to register for the April 13th - 14th, 2023 UCLA synthetic data workshop. 
+### Registration (Deadline **April 1st, 2023**).
+[Click here](https://docs.google.com/forms/d/e/1FAIpQLSewDipcynt5OlyOxwNsLOjdwf2S5qyxWzjABxkEq3dnQyAntw/viewform?usp=pp_url) to register for the April 13th - 14th, 2023 UCLA synthetic data workshop. [Click here](https://commerce.cashnet.com/41015CONF) to pay the registration fee.
 
-The registration deadline is **April 1st, 2023**.
-
-**PLEASE NOTE: Submitting the above Google form DOES NOT guarantee a place in the workshop until the registration fee is paid. The registration fee link will become available in March and we will inform those who registered via email then.**
+**PLEASE NOTE: Submitting the above Google form DOES NOT guarantee a place in the workshop until the registration fee is paid.**
 
 <!-- 
 ### Diversity Travel Awards
