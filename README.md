@@ -27,6 +27,7 @@ Therefore, this workshop is to form a community of synthetic data researchers (f
 ### Program
 All events will be held at UCLA faculty club.
 
+<!--
 #### Day 1: April 13, Thursday
 - 8-8:50 breakfast & register
 - 8:50-9 opening remark
@@ -72,8 +73,8 @@ All events will be held at UCLA faculty club.
   - Speaker: [Joerg Drechsler, IAB in Germany](https://doku.iab.de/mitarbeiter/vita_drechsler.pdf)
   - Speaker: [Joshua Snoke, RAND](https://www.rand.org/about/people/s/snoke_joshua.html)
   - Speaker: [Aaron Williams, Urban Institute](https://www.urban.org/author/aaron-r-williams)
+-->
 
-<!--
 ##### Keynote speakers (40 mins/talk): 
 - [Aloni Cohen, UChicago Computer Science](https://cs.uchicago.edu/people/aloni-cohen/)
 - [Xiao-Li Meng, Harvard Statistics](https://statistics.fas.harvard.edu/people/xiao-li-meng)
@@ -109,7 +110,6 @@ Session Chair: [Andrés Felipe Barrientos, FSU Statistics](https://anfebar.githu
 - [Joerg Drechsler, IAB in Germany](https://doku.iab.de/mitarbeiter/vita_drechsler.pdf)
 - [Joshua Snoke, RAND](https://www.rand.org/about/people/s/snoke_joshua.html)
 - [Aaron Williams, Urban Institute](https://www.urban.org/author/aaron-r-williams)
--->
 
 ### Poster
 The poster will be asked to upload in the above registration. The deadline is April 1st. 
