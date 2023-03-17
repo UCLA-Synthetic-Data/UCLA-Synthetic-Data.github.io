@@ -118,7 +118,7 @@ The poster will be asked to upload in the above registration. The deadline is Ap
 Travel support is available for junior participants (who received PhD degree after 2018), invited speakers and panel discussants. Registration fee will be reimbursed for participants that receive travel support. 
 
 ### Registration (Deadline **April 1st, 2023**).
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSewDipcynt5OlyOxwNsLOjdwf2S5qyxWzjABxkEq3dnQyAntw/viewform?usp=pp_url) to register for the April 13th - 14th, 2023 UCLA synthetic data workshop. [Click here](https://commerce.cashnet.com/41015CONF) to pay the registration fee.
+[**CLICK HERE**](https://docs.google.com/forms/d/e/1FAIpQLSewDipcynt5OlyOxwNsLOjdwf2S5qyxWzjABxkEq3dnQyAntw/viewform?usp=pp_url) to register for the April 13th - 14th, 2023 UCLA synthetic data workshop. [**CLICK HERE**](https://commerce.cashnet.com/41015CONF) to pay the registration fee.
 
 **PLEASE NOTE: Submitting the above Google form DOES NOT guarantee a place in the workshop until the registration fee is paid.**
 
