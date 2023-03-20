@@ -39,7 +39,7 @@ All events will be held at [UCLA faculty club](https://facultyclub.ucla.edu/).
     Speaker: [Joerg Drechsler, IAB in Germany](https://doku.iab.de/mitarbeiter/vita_drechsler.pdf)
   - Title: [New Methods and Applications in Synthetic Data for Survey Data](https://sites.google.com/g.ucla.edu/talkinfo/sdss_2) <br>
     Speaker: [Joshua Snoke, RAND](https://www.rand.org/about/people/s/snoke_joshua.html)
-  - Title: [Synthesizing Tax Data with tidy-synthesis](https://sites.google.com/g.ucla.edu/talkinfo/sdss_3) <br>
+  - Title: [Synthesizing Tax Data with Tidy-synthesis](https://sites.google.com/g.ucla.edu/talkinfo/sdss_3) <br>
     Speaker: [Aaron Williams, Urban Institute](https://www.urban.org/author/aaron-r-williams)
 - 11:30-11:50 Coffee/Tea
 - 11:50-12:30 Legal Panel <br>
@@ -51,7 +51,7 @@ All events will be held at [UCLA faculty club](https://facultyclub.ucla.edu/).
 - 13:50-14:30 Keynote Talk by [Aloni Cohen, UChicago Computer Science](https://cs.uchicago.edu/people/aloni-cohen/) <br> 
               Chair: [Mark Mckenna, UCLA School of Law](https://law.ucla.edu/faculty/faculty-profiles/mark-mckenna)
 - 14:30-15:00 Coffee/Tea
-- 15：00-16:30 Invited Session 2: Trustworthiness of Synthetic Data <br>
+- 15:00-16:30 Invited Session 2: Trustworthiness of Synthetic Data <br>
   Session Chair: [Shirong Xu, Visiting Assistant Professor UCLA](https://sites.google.com/view/shirongs-homepage/main?authuser=0) <br>
   - Title: [Differentially Private Synthetic Data Can Be Accessible and Equitable](https://sites.google.com/g.ucla.edu/talkinfo/tsd_1) <br>
     Speaker: [Lucas Rosenblatt, NYU Center for Responsible AI](https://www.lucasrosenblatt.com/)
