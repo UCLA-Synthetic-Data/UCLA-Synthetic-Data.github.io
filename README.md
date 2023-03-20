@@ -32,9 +32,8 @@ All events will be held at UCLA faculty club.
 - 8:50-9 opening remark <!--[Advertise M5 positions]-->
 - 9-9:40 keynote by [Xiao-Li Meng, Harvard Statistics](https://statistics.fas.harvard.edu/people/xiao-li-meng), Chair: [Ying Nian Wu, UCLA Statistics](http://www.stat.ucla.edu/~ywu/)
 - 9:40-10 coffee/tea
-- 10-11:30 invited session:  Synthetic Data for Social Science
-
-  Session Chair: [Andrés Felipe Barrientos, FSU Statistics](https://anfebar.github.io/)
+- 10-11:30 invited session:  Synthetic Data for Social Science <br>
+  Session Chair: [Andrés Felipe Barrientos, FSU Statistics](https://anfebar.github.io/) <br>
   - Title: [Stylized facts about synthetic data for the Social Sciences – An illustration using data from the U.S. Economic Census](https://sites.google.com/g.ucla.edu/talkinfo/sdss_1) <br>
     Speaker: [Joerg Drechsler, IAB in Germany](https://doku.iab.de/mitarbeiter/vita_drechsler.pdf)
   - Title: [New Methods and Applications in Synthetic Data for Survey Data](https://sites.google.com/g.ucla.edu/talkinfo/sdss_2) <br>
@@ -42,47 +41,38 @@ All events will be held at UCLA faculty club.
   - Title: [Synthesizing Tax Data with tidy-synthesis](https://sites.google.com/g.ucla.edu/talkinfo/sdss_3) <br>
     Speaker: [Aaron Williams, Urban Institute](https://www.urban.org/author/aaron-r-williams)
 - 11:30-11:50 coffee/tea
-
-- 11:50-12:30 Legal Panel 
-
-  Moderator: [Mark Mckenna, UCLA School of Law](https://law.ucla.edu/faculty/faculty-profiles/mark-mckenna)
+- 11:50-12:30 Legal Panel <br>
+  Moderator: [Mark Mckenna, UCLA School of Law](https://law.ucla.edu/faculty/faculty-profiles/mark-mckenna) <br>
   - [Nikita Aggarwal, UCLA School of Law](https://law.ucla.edu/faculty/faculty-profiles/nikita-aggarwal)
   - [Alexandra Wood, Harvard Berkman Klein Center](https://cyber.harvard.edu/people/awood)
-
 - 12:30-13:30 lunch
 - 13:30-13:50 Group Picture
 - 13:50-14:30 keynote by [Aloni Cohen, UChicago Computer Science](https://cs.uchicago.edu/people/aloni-cohen/), Chair: [Mark Mckenna, UCLA School of Law](https://law.ucla.edu/faculty/faculty-profiles/mark-mckenna)
 - 14:30-15:00 coffee/tea
-- 15：00-16:30 invited session: Trustworthiness of Synthetic Data
-
-  Session Chair: [Shirong Xu, VAP UCLA](https://sites.google.com/view/shirongs-homepage/main?authuser=0)
+- 15：00-16:30 invited session: Trustworthiness of Synthetic Data <br>
+  Session Chair: [Shirong Xu, VAP UCLA](https://sites.google.com/view/shirongs-homepage/main?authuser=0) <br>
   - Title: [Differentially Private Synthetic Data Can Be Accessible and Equitable](https://sites.google.com/g.ucla.edu/talkinfo/tsd_1) <br>
     Speaker: [Lucas Rosenblatt, NYU Center for Responsible AI](https://www.lucasrosenblatt.com/)
   - Speaker: [Jimeng Sun, UIUC Computer Science](https://www.sunlab.org/)
   - Speaker: [Steven Wu, CMU Computer Science](https://zstevenwu.com/)
 
 #### Day 2: April 14, Friday
-
 - 8-9 breakfast & register
 - 9-9:40 keynote by [Kalyan Veeramachaneni, MIT LIDS](https://kalyan.lids.mit.edu/), [DataCebo](https://datacebo.com/) Chair: [Guang Cheng, UCLA Statistics](http://www.stat.ucla.edu/~guangcheng/) (Chair)
 - 9:40-10 coffee/tea
-- 10:00-11:30 invited session: Generative Models for Text/Image Data
-
-  Session Chair: [Ying Nian Wu, UCLA Statistics](http://www.stat.ucla.edu/~ywu/) 
+- 10:00-11:30 invited session: Generative Models for Text/Image Data <br>
+  Session Chair: [Ying Nian Wu, UCLA Statistics](http://www.stat.ucla.edu/~ywu/) <br>
   - Speaker: [Alessandro Achille, Amazon](https://alexachi.github.io/)
   - Title: [Controllable Text Generation Beyond Auto-Regressive Models](https://sites.google.com/g.ucla.edu/talkinfo/is3_2) <br>
     Speaker: [Nanyun Peng, UCLA Computer Science](https://vnpeng.net/)
   - Title: [Recreating Diverse Traffic Scenarios for Benchmarking Embodied AI Safety in Simulation](https://sites.google.com/g.ucla.edu/talkinfo/is3_3) <br> 
     Speaker: [Bolei Zhou, UCLA Computer Science](https://boleizhou.github.io/)
 - 11:30-11:50 coffee/tea
-
-- 11:50-12:50 Industrial Panel 
-
-  Moderator [Belinda Zeng, Amazon](https://www.linkedin.com/in/belindazeng)
+- 11:50-12:50 Industrial Panel <br>
+  Moderator [Belinda Zeng, Amazon](https://www.linkedin.com/in/belindazeng)<br>
   - [Ali Golshan](https://www.linkedin.com/in/ali-golshan), [Gretel.ai](https://gretel.ai/)
   - [Tobias Hann](https://www.linkedin.com/in/tobiashann/), [MOSTLY AI](https://mostly.ai/)
   - [Vamsi Krishna Potluru](https://www.linkedin.com/in/vamsi-krishna-potluru-7b64884b), [J.P. Morgan AI Research](https://www.jpmorgan.com/technology/artificial-intelligence)
-
 - 12:50-13:50 lunch
 - 13:50-14:30 keynote by [Roman Vershynin, UCI Mathematics](https://www.math.uci.edu/~rvershyn/) Chair: [Guang Lin, Purdue Math](https://www.math.purdue.edu/~lin491/)
 - 14:30-15:00 coffee/tea
