@@ -78,7 +78,7 @@ All events will be held at UCLA faculty club.
 
 - 11:50-12:50 Industrial Panel 
 
-  [Moderator] [Belinda Zeng, Amazon](https://www.linkedin.com/in/belindazeng)
+  Moderator [Belinda Zeng, Amazon](https://www.linkedin.com/in/belindazeng)
   - [Ali Golshan](https://www.linkedin.com/in/ali-golshan), [Gretel.ai](https://gretel.ai/)
   - [Tobias Hann](https://www.linkedin.com/in/tobiashann/), [MOSTLY AI](https://mostly.ai/)
   - [Vamsi Krishna Potluru](https://www.linkedin.com/in/vamsi-krishna-potluru-7b64884b), [J.P. Morgan AI Research](https://www.jpmorgan.com/technology/artificial-intelligence)
@@ -86,9 +86,8 @@ All events will be held at UCLA faculty club.
 - 12:50-13:50 lunch
 - 13:50-14:30 keynote by [Roman Vershynin, UCI Mathematics](https://www.math.uci.edu/~rvershyn/) Chair: [Guang Lin, Purdue Math](https://www.math.purdue.edu/~lin491/)
 - 14:30-15:00 coffee/tea
-- 15:00-16:30 invited session: Structured Synthetic Data (Tabular and Time Series)
-
-  Session Chair: [Chi-hua Wang, UCLA Statistics](https://muramiku999.notion.site/Chi-Hua-Wang-Ph-D-6f761ac5558d498cbb4b0a84d47a0a98)
+- 15:00-16:30 invited session: Structured Synthetic Data (Tabular and Time Series) <br>
+  Session Chair: [Chi-hua Wang, UCLA Statistics](https://muramiku999.notion.site/Chi-Hua-Wang-Ph-D-6f761ac5558d498cbb4b0a84d47a0a98) <br>
   - Title: [Marginal-based methods for differentially private synthetic data](https://sites.google.com/g.ucla.edu/talkinfo/is1_1) <br>
     Speaker: [Ryan McKenna, Google](https://people.cs.umass.edu/~rmckenna/)
   - Title: [Task-Agnostic Benchmarking of Pretrained Representations using Synthetic Data](https://sites.google.com/g.ucla.edu/talkinfo/is1_2) <br>
