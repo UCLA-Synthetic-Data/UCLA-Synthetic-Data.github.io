@@ -52,7 +52,7 @@ All events will be held at [UCLA faculty club](https://facultyclub.ucla.edu/).
               Chair: [Mark Mckenna, UCLA School of Law](https://law.ucla.edu/faculty/faculty-profiles/mark-mckenna)
 - 14:30-15:00 Coffee/Tea
 - 15:00-16:30 Invited Session 2: Trustworthiness of Synthetic Data <br>
-  Session Chair: [Shirong Xu, Visiting Assistant Professor UCLA](https://sites.google.com/view/shirongs-homepage/main?authuser=0) <br>
+  Session Chair: [Shirong Xu, UCLA Statistics](https://sites.google.com/view/shirongs-homepage/main?authuser=0) <br>
   - Title: [Differentially Private Synthetic Data Can Be Accessible and Equitable](https://sites.google.com/g.ucla.edu/talkinfo/tsd_1) <br>
     Speaker: [Lucas Rosenblatt, NYU Center for Responsible AI](https://www.lucasrosenblatt.com/)
   - Speaker: [Jimeng Sun, UIUC Computer Science](https://www.sunlab.org/)
@@ -181,9 +181,7 @@ The poster will be asked to upload in the above registration. The deadline is Ap
 Travel support is available for junior participants (who received PhD degree after 2018), invited speakers and panel discussants. Registration fee will be reimbursed for participants that receive travel support. 
 
 ### Registration (Deadline **April 1st, 2023**).
-[**CLICK HERE**](https://docs.google.com/forms/d/e/1FAIpQLSewDipcynt5OlyOxwNsLOjdwf2S5qyxWzjABxkEq3dnQyAntw/viewform?usp=pp_url) to register for the April 13th - 14th, 2023 UCLA synthetic data workshop.
-
-[**CLICK HERE**](https://commerce.cashnet.com/41015CONF) to pay the registration fee.
+[**CLICK HERE**](https://docs.google.com/forms/d/e/1FAIpQLSewDipcynt5OlyOxwNsLOjdwf2S5qyxWzjABxkEq3dnQyAntw/viewform?usp=pp_url) to register for the April 13th - 14th, 2023 UCLA synthetic data workshop. <br> [**CLICK HERE**](https://commerce.cashnet.com/41015CONF) to pay the registration fee.
 
 **PLEASE NOTE: Submitting the above Google form DOES NOT guarantee a place in the workshop until the registration fee is paid.**
 
