@@ -60,7 +60,7 @@ All events will be held at [UCLA faculty club](https://facultyclub.ucla.edu/).
 
 #### Day 2: April 14, Friday
 - 8-9 Breakfast & Register
-- 9-9:40 Keynote Talk by [Kalyan Veeramachaneni, MIT LIDS](https://kalyan.lids.mit.edu/), [DataCebo](https://datacebo.com/) 
+- 9-9:40 Keynote Talk by [Kalyan Veeramachaneni, MIT LIDS](https://kalyan.lids.mit.edu/), [DataCebo](https://datacebo.com/) <br>
          Chair: [Guang Cheng, UCLA Statistics](http://www.stat.ucla.edu/~guangcheng/)
 - 9:40-10 Coffee/Tea
 - 10:00-11:30 Invited Session 3: Generative Models for Text/Image Data <br>
@@ -77,7 +77,7 @@ All events will be held at [UCLA faculty club](https://facultyclub.ucla.edu/).
   - [Tobias Hann](https://www.linkedin.com/in/tobiashann/), [MOSTLY AI](https://mostly.ai/)
   - [Vamsi Krishna Potluru](https://www.linkedin.com/in/vamsi-krishna-potluru-7b64884b), [J.P. Morgan AI Research](https://www.jpmorgan.com/technology/artificial-intelligence)
 - 12:50-13:50 Lunch
-- 13:50-14:30 Keynote Talk by [Roman Vershynin, UCI Mathematics](https://www.math.uci.edu/~rvershyn/) 
+- 13:50-14:30 Keynote Talk by [Roman Vershynin, UCI Mathematics](https://www.math.uci.edu/~rvershyn/) <br>
               Chair: [Guang Lin, Purdue Math](https://www.math.purdue.edu/~lin491/)
 - 14:30-15:00 Coffee/Tea
 - 15:00-16:30 Invited Session 4: Structured Synthetic Data (Tabular and Time Series) <br>
