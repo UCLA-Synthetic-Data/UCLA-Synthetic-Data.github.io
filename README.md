@@ -69,7 +69,7 @@ All events will be held at UCLA faculty club.
     Speaker: [Bolei Zhou, UCLA Computer Science](https://boleizhou.github.io/)
 - 11:30-11:50 coffee/tea
 - 11:50-12:50 Industrial Panel <br>
-  Moderator [Belinda Zeng, Amazon](https://www.linkedin.com/in/belindazeng)<br>
+  Moderator: [Belinda Zeng, Amazon](https://www.linkedin.com/in/belindazeng)<br>
   - [Ali Golshan](https://www.linkedin.com/in/ali-golshan), [Gretel.ai](https://gretel.ai/)
   - [Tobias Hann](https://www.linkedin.com/in/tobiashann/), [MOSTLY AI](https://mostly.ai/)
   - [Vamsi Krishna Potluru](https://www.linkedin.com/in/vamsi-krishna-potluru-7b64884b), [J.P. Morgan AI Research](https://www.jpmorgan.com/technology/artificial-intelligence)
