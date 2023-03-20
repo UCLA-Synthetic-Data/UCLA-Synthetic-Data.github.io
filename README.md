@@ -77,7 +77,8 @@ All events will be held at [UCLA faculty club](https://facultyclub.ucla.edu/).
   - [Tobias Hann](https://www.linkedin.com/in/tobiashann/), [MOSTLY AI](https://mostly.ai/)
   - [Vamsi Krishna Potluru](https://www.linkedin.com/in/vamsi-krishna-potluru-7b64884b), [J.P. Morgan AI Research](https://www.jpmorgan.com/technology/artificial-intelligence)
 - 12:50-13:50 Lunch
-- 13:50-14:30 Keynote Talk by [Roman Vershynin, UCI Mathematics](https://www.math.uci.edu/~rvershyn/) Chair: [Guang Lin, Purdue Math](https://www.math.purdue.edu/~lin491/)
+- 13:50-14:30 Keynote Talk by [Roman Vershynin, UCI Mathematics](https://www.math.uci.edu/~rvershyn/) 
+              Chair: [Guang Lin, Purdue Math](https://www.math.purdue.edu/~lin491/)
 - 14:30-15:00 Coffee/Tea
 - 15:00-16:30 Invited Session 4: Structured Synthetic Data (Tabular and Time Series) <br>
   Session Chair: [Chi-hua Wang, UCLA Statistics](https://muramiku999.notion.site/Chi-Hua-Wang-Ph-D-6f761ac5558d498cbb4b0a84d47a0a98) <br>
