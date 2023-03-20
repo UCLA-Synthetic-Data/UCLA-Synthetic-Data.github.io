@@ -52,7 +52,7 @@ All events will be held at [UCLA faculty club](https://facultyclub.ucla.edu/).
               Chair: [Mark Mckenna, UCLA School of Law](https://law.ucla.edu/faculty/faculty-profiles/mark-mckenna)
 - 14:30-15:00 Coffee/Tea
 - 15：00-16:30 Invited Session 2: Trustworthiness of Synthetic Data <br>
-  Session Chair: [Shirong Xu, VAP UCLA](https://sites.google.com/view/shirongs-homepage/main?authuser=0) <br>
+  Session Chair: [Shirong Xu, Visiting Assistant Professor UCLA](https://sites.google.com/view/shirongs-homepage/main?authuser=0) <br>
   - Title: [Differentially Private Synthetic Data Can Be Accessible and Equitable](https://sites.google.com/g.ucla.edu/talkinfo/tsd_1) <br>
     Speaker: [Lucas Rosenblatt, NYU Center for Responsible AI](https://www.lucasrosenblatt.com/)
   - Speaker: [Jimeng Sun, UIUC Computer Science](https://www.sunlab.org/)
@@ -61,7 +61,7 @@ All events will be held at [UCLA faculty club](https://facultyclub.ucla.edu/).
 #### Day 2: April 14, Friday
 - 8-9 Breakfast & Register
 - 9-9:40 Keynote Talk by [Kalyan Veeramachaneni, MIT LIDS](https://kalyan.lids.mit.edu/), [DataCebo](https://datacebo.com/) 
-         Chair: [Guang Cheng, UCLA Statistics](http://www.stat.ucla.edu/~guangcheng/) (Chair)
+         Chair: [Guang Cheng, UCLA Statistics](http://www.stat.ucla.edu/~guangcheng/)
 - 9:40-10 Coffee/Tea
 - 10:00-11:30 Invited Session 3: Generative Models for Text/Image Data <br>
   Session Chair: [Ying Nian Wu, UCLA Statistics](http://www.stat.ucla.edu/~ywu/) <br>
