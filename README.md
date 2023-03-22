@@ -31,6 +31,7 @@ All events will be held at [UCLA faculty club](https://facultyclub.ucla.edu/).
 - 8-8:50 Breakfast & Register
 - 8:50-9 Opening Remark <!--[Advertise M5 positions]-->
 - 9-9:40 Keynote Talk by [Xiao-Li Meng, Harvard Statistics](https://statistics.fas.harvard.edu/people/xiao-li-meng) <br> 
+         Title: Data Minding for Synthetic Data: Have We Ever Had Real Data? <br>
          Chair: [Ying Nian Wu, UCLA Statistics](http://www.stat.ucla.edu/~ywu/)
 - 9:40-10 Coffee/Tea
 - 10-11:30 Invited Session 1:  Synthetic Data for Social Science <br>
@@ -78,13 +79,14 @@ All events will be held at [UCLA faculty club](https://facultyclub.ucla.edu/).
   - [Vamsi Krishna Potluru](https://www.linkedin.com/in/vamsi-krishna-potluru-7b64884b), [J.P. Morgan AI Research](https://www.jpmorgan.com/technology/artificial-intelligence)
 - 12:50-13:50 Lunch
 - 13:50-14:30 Keynote Talk by [Roman Vershynin, UCI Mathematics](https://www.math.uci.edu/~rvershyn/) <br>
+              Titile: [Mathematical Foundations of Private Synthetic Data](https://sites.google.com/g.ucla.edu/talkinfo/kn_4) <br>
               Chair: [Guang Lin, Purdue Math](https://www.math.purdue.edu/~lin491/)
 - 14:30-15:00 Coffee/Tea
 - 15:00-16:30 Invited Session 4: Structured Synthetic Data (Tabular and Time Series) <br>
   Session Chair: [Chi-hua Wang, UCLA Statistics](https://muramiku999.notion.site/Chi-Hua-Wang-Ph-D-6f761ac5558d498cbb4b0a84d47a0a98) <br>
   - Title: [Marginal-based Methods for Differentially Private Synthetic Data](https://sites.google.com/g.ucla.edu/talkinfo/is1_1) <br>
     Speaker: [Ryan McKenna, Google](https://people.cs.umass.edu/~rmckenna/)
-  - Title: [Task-Agnostic Benchmarking of Pretrained Representations using Synthetic Data](https://sites.google.com/g.ucla.edu/talkinfo/is1_2) <br>
+  - Title: [Task-Agnostic Benchmarking of Pretrained Representations Using Synthetic Data](https://sites.google.com/g.ucla.edu/talkinfo/is1_2) <br>
     Speaker: [Ching-Yun (Irene) Ko, MIT EECS](https://ireneko.github.io/)
   - Title: [Continuous Conditional GANs with Generator Regularization](https://sites.google.com/g.ucla.edu/talkinfo/is1_3) <br>
     Speaker: [Yunkai Zhang, UCB IEOR](https://www.linkedin.com/in/zhang-yunkai/)
