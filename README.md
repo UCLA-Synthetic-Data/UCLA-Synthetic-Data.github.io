@@ -5,6 +5,16 @@
 We are pleased to announce the UCLA synthetic data workshop. This two-day workshop is hosted by the [UCLA Department of Statistics](http://statistics.ucla.edu/) and co-sponsored by [IDRE](https://idre.ucla.edu/), [Science Hub for Humanity and Artificial Intelligence](https://www.sciencehub.ucla.edu/), [ASA Section on Statistical Computing](https://community.amstat.org/jointscsg-section/home), [NISS](https://www.niss.org/) and [NSF](https://www.nsf.gov/). The workshop is held at the [UCLA Faculty Club](https://facultyclub.ucla.edu/) from April 13-14, 2023.
 
 ### About
+Synthetic data generation is an interdisciplinary field that is rapidly gaining momentum in both academia and industry. Synthetic data has become a valuable resource for the development of algorithmic procedures, fraud detection, spam identification, and the construction of AI-driven models in industries such as manufacturing and supply chain management. The benefits of synthetic data include cost savings, increased speed and agility, advanced intelligence, and state-of-the-art privacy. The Gartner report forecasts that synthetic data will largely replace real data for training machine/deep learning models by 2030, as depicted in the figure below. Additionally, synthetic data was named one of the top 10 game-changing innovations for 2022 by the [MIT Technology Review](https://www.technologyreview.com/2022/02/23/1045416/10-breakthrough-technologies-2022/#synthetic-data-for-ai). Synthetic data comes in various forms, such as image, text, graph, and tabular data, and has different names, such as simulated data, missing value imputation, and GAN, depending on the scientific community. Synthetic data generation is expected to become an essential component of next-generation machine learning workflows.
+
+<div align="center">
+<img src="docs/assets/img/fig_1.png" width = "70%" height = "70%" alt="fig_1" align="center" />
+</div>
+<br>
+
+Despite the numerous successful applications of synthetic data, its scientific foundation, such as the tradeoff among fidelity, utility, and privacy, is still underdeveloped. Moreover, industrial standards for generating and utilizing synthetic data are not yet fully developed. Additionally, the privacy law on synthetic data is still in its infancy. Therefore, the purpose of this workshop is to bring together a community of synthetic data researchers from statistics, machine learning, and mathematics, policymakers, and industrial partners to collaborate on developing the theory, methodology, and algorithms necessary for producing synthetic benchmark datasets and algorithms.
+
+<!--
 Synthetic data generation is a rapidly growing and highly interdisciplinary area that
 draws much attention from both academia and industry. For the development of algorithmic
 procedures for fraud detection and spam identification, as well as for the construction of AI-driven
@@ -14,15 +24,11 @@ speed, agility, increased intelligence, and cutting-edge privacy. According to t
 synthetic data will overshadow real data in training machine/deep learning models by 2030; see
 Figure below. Additionally, the [MIT Technology Review](https://www.technologyreview.com/2022/02/23/1045416/10-breakthrough-technologies-2022/#synthetic-data-for-ai) named synthetic data as one of its top 10 game-changing innovations for 2022. Synthetic data is everywhere: image, text, graph and tabular data; it has different names: simulated data (for physical scientists); missing value imputation (for statisticians), and more recently, GAN (for computer scientists) etc. Therefore, it is believed that synthetic data generation will be an indispensable part of the next-generation machine learning workflow.
 
-<div align="center">
-<img src="docs/assets/img/fig_1.png" width = "70%" height = "70%" alt="fig_1" align="center" />
-</div>
-<br>
-
 Despite numerous successful applications of synthetic data, its scientific foundation, e.g., the
 tradeoff among fidelity, utility, and privacy, is still missing. Additionally, industrial standards
 for generating and utilizing synthetic data are not fully developed. Furthermore, the privacy law on synthetic data is still in its infancy. 
 Therefore, this workshop is to form a community of synthetic data researchers (from statistics, machine learning and mathematics), policymakers, and industrial partners, and bring them together to collaborate on the development of the theory, methodology, and algorithms needed to produce synthetic benchmark datasets and algorithms.
+-->
 
 ### Program
 All events will be held at [UCLA faculty club](https://facultyclub.ucla.edu/).
