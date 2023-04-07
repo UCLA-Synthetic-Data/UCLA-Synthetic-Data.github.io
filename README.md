@@ -63,7 +63,7 @@ All events will be held at [UCLA faculty club](https://facultyclub.ucla.edu/).
   - Title: [Differentially Private Synthetic Data Can Be Accessible and Equitable](https://sites.google.com/g.ucla.edu/talkinfo/tsd_1) <br>
     Speaker: [Lucas Rosenblatt, NYU Center for Responsible AI](https://www.lucasrosenblatt.com/)
   - Speaker: [Jimeng Sun, UIUC Computer Science](https://www.sunlab.org/)
-  - Title: [The Duality of Private Synthetic Data and Reconstruction Attacks](https://sites.google.com/g.ucla.edu/talkinfo/tsd_2)
+  - Title: [The Duality of Private Synthetic Data and Reconstruction Attacks](https://sites.google.com/g.ucla.edu/talkinfo/tsd_2) <br>
     Speaker: [Steven Wu, CMU Computer Science](https://zstevenwu.com/)
 
 #### Day 2: April 14, Friday
