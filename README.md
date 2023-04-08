@@ -4,6 +4,7 @@
 <img src="docs/assets/img/workshop_flyer.png" width = "70%" height = "70%" alt="fig_1" align="center" />
 </div>
 <br>
+
 **April 13th - 14th, 2023** <br>
 We are pleased to announce the UCLA synthetic data workshop. This two-day workshop is hosted by the [UCLA Department of Statistics](http://statistics.ucla.edu/) and co-sponsored by [IDRE](https://idre.ucla.edu/), [Science Hub for Humanity and Artificial Intelligence](https://www.sciencehub.ucla.edu/), [ASA Section on Statistical Computing](https://community.amstat.org/jointscsg-section/home), [NISS](https://www.niss.org/) and [NSF](https://www.nsf.gov/). The workshop is held at the [UCLA Faculty Club](https://facultyclub.ucla.edu/) from April 13-14, 2023.
 
