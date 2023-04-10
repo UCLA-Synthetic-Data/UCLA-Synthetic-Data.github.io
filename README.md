@@ -77,7 +77,7 @@ All events will be held at [UCLA faculty club](https://facultyclub.ucla.edu/).
 - 9:40-10 Coffee/Tea
 - 10:00-11:00 Industrial Panel <br>
   Moderator: [Belinda Zeng, Amazon](https://www.linkedin.com/in/belindazeng)<br>
-  - [Ali Golshan](https://www.linkedin.com/in/ali-golshan), [Gretel.ai](https://gretel.ai/)
+  - [Maarten Van Segbroeck](https://www.linkedin.com/in/maarten-van-segbroeck-ph-d-b395871/), [Gretel.ai](https://gretel.ai/)
   - [Tobias Hann](https://www.linkedin.com/in/tobiashann/), [MOSTLY AI](https://mostly.ai/)
   - [Vamsi Krishna Potluru](https://www.linkedin.com/in/vamsi-krishna-potluru-7b64884b), [J.P. Morgan AI Research](https://www.jpmorgan.com/technology/artificial-intelligence)
 - 11:00-11:20 Coffee/Tea
