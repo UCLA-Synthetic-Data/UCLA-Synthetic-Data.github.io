@@ -35,7 +35,7 @@ Therefore, this workshop is to form a community of synthetic data researchers (f
 -->
 
 ### Program
-All events will be held at [UCLA faculty club](https://facultyclub.ucla.edu/).
+All events will be held at [UCLA faculty club](https://facultyclub.ucla.edu/), Morrison Room.
 
 #### Day 1: April 13, Thursday
 - 8-8:50 Breakfast & Register
