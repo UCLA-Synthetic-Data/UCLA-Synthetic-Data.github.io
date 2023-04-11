@@ -41,7 +41,7 @@ All events will be held at [UCLA faculty club](https://facultyclub.ucla.edu/), M
 - 8-8:50 Breakfast & Register
 - 8:50-9 Opening Remark <!--[Advertise M5 positions]-->
 - 9-9:40 Keynote Talk by [Xiao-Li Meng, Harvard Statistics](https://statistics.fas.harvard.edu/people/xiao-li-meng) <br> 
-         Title: Data Minding for Synthetic Data: Have We Ever Had Real Data? <br>
+         Title: [Data Minding for Synthetic Data: Have We Ever Had Real Data?](https://sites.google.com/g.ucla.edu/talkinfo/kn_1) <br>
          Chair: [Ying Nian Wu, UCLA Statistics](http://www.stat.ucla.edu/~ywu/)
 - 9:40-10 Coffee/Tea
 - 10-11:30 Invited Session 1:  Synthetic Data for Social Science <br>
