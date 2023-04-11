@@ -60,6 +60,7 @@ All events will be held at [UCLA faculty club](https://facultyclub.ucla.edu/).
 - 12:30-13:30 Lunch
 - 13:30-13:50 Group Picture
 - 13:50-14:30 Keynote Talk by [Aloni Cohen, UChicago Computer Science](https://cs.uchicago.edu/people/aloni-cohen/) <br> 
+              Title: [Deidentification and Data Deletion --- A Cryptographer's Take](https://sites.google.com/g.ucla.edu/talkinfo/kn_2) <br>
               Chair: [Mark Mckenna, UCLA School of Law](https://law.ucla.edu/faculty/faculty-profiles/mark-mckenna)
 - 14:30-15:00 Coffee/Tea
 - 15:00-16:30 Invited Session 2: Trustworthiness of Synthetic Data <br>
