@@ -85,7 +85,8 @@ All events will be held at [UCLA faculty club](https://facultyclub.ucla.edu/), M
 - 11:00-11:20 Coffee/Tea
 - 11:20-12:50 Invited Session 3: Generative Models for Text/Image Data <br>
   Session Chair: [Ying Nian Wu, UCLA Statistics](http://www.stat.ucla.edu/~ywu/) <br>
-  - Speaker: [Alessandro Achille, Amazon](https://alexachi.github.io/)
+  - Title: [Leveraging Synthetic Data for Machine Unlearning](https://sites.google.com/g.ucla.edu/talkinfo/is3_1) <br>
+    Speaker: [Alessandro Achille, Amazon](https://alexachi.github.io/)
   - Title: [Controllable Text Generation Beyond Auto-Regressive Models](https://sites.google.com/g.ucla.edu/talkinfo/is3_2) <br>
     Speaker: [Nanyun Peng, UCLA Computer Science](https://vnpeng.net/)
   - Title: [Recreating Diverse Traffic Scenarios for Benchmarking Embodied AI Safety in Simulation](https://sites.google.com/g.ucla.edu/talkinfo/is3_3) <br> 
