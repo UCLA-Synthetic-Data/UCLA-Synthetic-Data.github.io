@@ -75,6 +75,7 @@ All events will be held at [UCLA faculty club](https://facultyclub.ucla.edu/), M
 #### Day 2: April 14, Friday
 - 8-9 Breakfast & Register
 - 9-9:40 Keynote Talk by [Kalyan Veeramachaneni, MIT LIDS](https://kalyan.lids.mit.edu/), [DataCebo](https://datacebo.com/) <br>
+         Title: [The Synthetic Data Vault: A Decade Long Journey to Build Algorithms, Systems and User Base](https://sites.google.com/g.ucla.edu/talkinfo/kn_3) <br>
          Chair: [Guang Cheng, UCLA Statistics](http://www.stat.ucla.edu/~guangcheng/)
 - 9:40-10 Coffee/Tea
 - 10:00-11:00 Industrial Panel <br>
