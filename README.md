@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-<img src="docs/assets/img/Workshop Group Picture.jpg" width = "70%" height = "70%" alt="fig_1" align="center" />
+<img src="docs/assets/img/Workshop Group Picture.jpg" width = "100%" height = "100%" alt="fig_1" align="center" />
 </div>
 <br>
 
