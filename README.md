@@ -47,12 +47,14 @@ All events will be held at [UCLA faculty club](https://facultyclub.ucla.edu/), M
 - 8:50-9 Opening Remark <!--[Advertise M5 positions]-->
 - 9-9:40 Keynote Talk by [Xiao-Li Meng, Harvard Statistics](https://statistics.fas.harvard.edu/people/xiao-li-meng) <br> 
          Title: [Data Minding for Synthetic Data: Have We Ever Had Real Data?](https://sites.google.com/g.ucla.edu/talkinfo/kn_1) <br>
-         Chair: [Ying Nian Wu, UCLA Statistics](http://www.stat.ucla.edu/~ywu/)
+         Chair: [Ying Nian Wu, UCLA Statistics](http://www.stat.ucla.edu/~ywu/) <br>
+         Slides: [**CLICK HERE**](https://drive.google.com/file/d/1oeUaIoUlNPD_4ChXWUEYRIyIR2MnHQPZ/view?usp=sharing)
 - 9:40-10 Coffee/Tea
 - 10-11:30 Invited Session 1:  Synthetic Data for Social Science <br>
   Session Chair: [Andrés Felipe Barrientos, FSU Statistics](https://anfebar.github.io/) <br>
   - Title: [Stylized Facts about Synthetic Data for the Social Sciences – an illustration using data from the U.S. Economic Census](https://sites.google.com/g.ucla.edu/talkinfo/sdss_1) <br>
-    Speaker: [Joerg Drechsler, IAB in Germany](https://doku.iab.de/mitarbeiter/vita_drechsler.pdf)
+    Speaker: [Joerg Drechsler, IAB in Germany](https://doku.iab.de/mitarbeiter/vita_drechsler.pdf) <br>
+    Slides: [**CLICK HERE**](https://drive.google.com/file/d/1VUOqZFgbwnBH_q5i9ADTSf-8RtFVAfu3/view?usp=share_link)
   - Title: [New Methods and Applications in Synthetic Data for Survey Data](https://sites.google.com/g.ucla.edu/talkinfo/sdss_2) <br>
     Speaker: [Joshua Snoke, RAND](https://www.rand.org/about/people/s/snoke_joshua.html)
   - Title: [Synthesizing Tax Data with Tidy-synthesis](https://sites.google.com/g.ucla.edu/talkinfo/sdss_3) <br>
@@ -75,7 +77,8 @@ All events will be held at [UCLA faculty club](https://facultyclub.ucla.edu/), M
   - Title: [Generative AI in Healthcare: Synthetic Patient Records and Clinical Trial Optimization](https://sites.google.com/g.ucla.edu/talkinfo/tsd_2) <br> 
     Speaker: [Jimeng Sun, UIUC Computer Science](https://www.sunlab.org/)
   - Title: [The Duality of Private Synthetic Data and Reconstruction Attacks](https://sites.google.com/g.ucla.edu/talkinfo/tsd_3) <br>
-    Speaker: [Steven Wu, CMU Computer Science](https://zstevenwu.com/)
+    Speaker: [Steven Wu, CMU Computer Science](https://zstevenwu.com/) <br>
+    Slides: [**CLICK HERE**](https://drive.google.com/file/d/1vs6u8z1rgCQSgDZCINxICmW7ZPE8RvgM/view?usp=share_link)
 
 #### Day 2: April 14, Friday
 - 8-9 Breakfast & Register
@@ -96,21 +99,25 @@ All events will be held at [UCLA faculty club](https://facultyclub.ucla.edu/), M
   - Title: [Controllable Text Generation Beyond Auto-Regressive Models](https://sites.google.com/g.ucla.edu/talkinfo/is3_2) <br>
     Speaker: [Nanyun Peng, UCLA Computer Science](https://vnpeng.net/)
   - Title: [Recreating Diverse Traffic Scenarios for Benchmarking Embodied AI Safety in Simulation](https://sites.google.com/g.ucla.edu/talkinfo/is3_3) <br> 
-    Speaker: [Bolei Zhou, UCLA Computer Science](https://boleizhou.github.io/)
+    Speaker: [Bolei Zhou, UCLA Computer Science](https://boleizhou.github.io/) <br>
+    Slides: [**CLICK HERE**](https://drive.google.com/file/d/192-pesf8F3vas3UgrPqJNH1qcfk67NgH/view?usp=share_link)
 - 12:50-13:50 Lunch
 - 13:50-14:30 Keynote Talk by [Roman Vershynin, UCI Mathematics](https://www.math.uci.edu/~rvershyn/) <br>
               Titile: [Mathematical Foundations of Private Synthetic Data](https://sites.google.com/g.ucla.edu/talkinfo/kn_4) <br>
-              Chair: [Guang Lin, Purdue Math](https://www.math.purdue.edu/~lin491/)
+              Chair: [Guang Lin, Purdue Math](https://www.math.purdue.edu/~lin491/) <br>
+              Slides: [**CLICK HERE**](https://drive.google.com/file/d/1AFwNA5PFhhFtuHgJDAyTHKVU42HmpVZ1/view?usp=share_link)
 - 14:30-15:00 Coffee/Tea
 - 15:00-16:30 Invited Session 4: Structured Synthetic Data (Tabular and Time Series) <br>
   Session Chair: [Chi-hua Wang, UCLA Statistics](https://muramiku999.notion.site/Chi-Hua-Wang-Ph-D-6f761ac5558d498cbb4b0a84d47a0a98) <br>
   - Title: [Marginal-based Methods for Differentially Private Synthetic Data](https://sites.google.com/g.ucla.edu/talkinfo/is1_1) <br>
     Speaker: [Ryan McKenna, Google](https://people.cs.umass.edu/~rmckenna/)
   - Title: [Task-Agnostic Benchmarking of Pretrained Representations Using Synthetic Data](https://sites.google.com/g.ucla.edu/talkinfo/is1_2) <br>
-    Speaker: [Ching-Yun (Irene) Ko, MIT EECS](https://ireneko.github.io/)
+    Speaker: [Ching-Yun (Irene) Ko, MIT EECS](https://ireneko.github.io/) <br>
+    Slides: [**CLICK HERE**](https://drive.google.com/file/d/1_KQKs7EW7dixcA1FXiAFOsKIWsU3w4zX/view?usp=share_link)
   - Title: [Continuous Conditional GANs with Generator Regularization](https://sites.google.com/g.ucla.edu/talkinfo/is1_3) <br>
-    Speaker: [Yunkai Zhang, UCB IEOR](https://www.linkedin.com/in/zhang-yunkai/)
-
+    Speaker: [Yunkai Zhang, UCB IEOR](https://www.linkedin.com/in/zhang-yunkai/) <br>
+    Slides: [**CLICK HERE**](https://drive.google.com/file/d/1xoWQ8HpSVx3GOgNzy-aUmB-CMcvnHk2x/view?usp=sharing)
+    
 <!--
 
 #### Day 1: April 13, Thursday
