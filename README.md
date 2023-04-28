@@ -58,7 +58,8 @@ All events will be held at [UCLA faculty club](https://facultyclub.ucla.edu/), M
   - Title: [New Methods and Applications in Synthetic Data for Survey Data](https://sites.google.com/g.ucla.edu/talkinfo/sdss_2) <br>
     Speaker: [Joshua Snoke, RAND](https://www.rand.org/about/people/s/snoke_joshua.html)
   - Title: [Synthesizing Tax Data with Tidy-synthesis](https://sites.google.com/g.ucla.edu/talkinfo/sdss_3) <br>
-    Speaker: [Aaron Williams, Urban Institute](https://www.urban.org/author/aaron-r-williams)
+    Speaker: [Aaron Williams, Urban Institute](https://www.urban.org/author/aaron-r-williams) <br>
+    Slides: [**CLICK HERE**](https://docs.google.com/presentation/d/1SwYCXpAJOxytUSvcASicb0cOGAcG0byo/edit?usp=share_link&ouid=103067129731213045097&rtpof=true&sd=true)
 - 11:30-11:50 Coffee/Tea
 - 11:50-12:30 Legal Panel <br>
   Moderator: [Mark Mckenna, UCLA School of Law](https://law.ucla.edu/faculty/faculty-profiles/mark-mckenna) <br>
